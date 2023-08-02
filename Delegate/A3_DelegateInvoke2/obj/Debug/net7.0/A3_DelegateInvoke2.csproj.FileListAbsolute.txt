@@ -1,0 +1,15 @@
+C:\C#\Bootcamp\vscode\Day 5\A3_DelegateInvoke2\bin\Debug\net7.0\A3_DelegateInvoke2.exe
+C:\C#\Bootcamp\vscode\Day 5\A3_DelegateInvoke2\bin\Debug\net7.0\A3_DelegateInvoke2.deps.json
+C:\C#\Bootcamp\vscode\Day 5\A3_DelegateInvoke2\bin\Debug\net7.0\A3_DelegateInvoke2.runtimeconfig.json
+C:\C#\Bootcamp\vscode\Day 5\A3_DelegateInvoke2\bin\Debug\net7.0\A3_DelegateInvoke2.dll
+C:\C#\Bootcamp\vscode\Day 5\A3_DelegateInvoke2\bin\Debug\net7.0\A3_DelegateInvoke2.pdb
+C:\C#\Bootcamp\vscode\Day 5\A3_DelegateInvoke2\obj\Debug\net7.0\A3_DelegateInvoke2.csproj.AssemblyReference.cache
+C:\C#\Bootcamp\vscode\Day 5\A3_DelegateInvoke2\obj\Debug\net7.0\A3_DelegateInvoke2.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Bootcamp\vscode\Day 5\A3_DelegateInvoke2\obj\Debug\net7.0\A3_DelegateInvoke2.AssemblyInfoInputs.cache
+C:\C#\Bootcamp\vscode\Day 5\A3_DelegateInvoke2\obj\Debug\net7.0\A3_DelegateInvoke2.AssemblyInfo.cs
+C:\C#\Bootcamp\vscode\Day 5\A3_DelegateInvoke2\obj\Debug\net7.0\A3_DelegateInvoke2.csproj.CoreCompileInputs.cache
+C:\C#\Bootcamp\vscode\Day 5\A3_DelegateInvoke2\obj\Debug\net7.0\A3_DelegateInvoke2.dll
+C:\C#\Bootcamp\vscode\Day 5\A3_DelegateInvoke2\obj\Debug\net7.0\refint\A3_DelegateInvoke2.dll
+C:\C#\Bootcamp\vscode\Day 5\A3_DelegateInvoke2\obj\Debug\net7.0\A3_DelegateInvoke2.pdb
+C:\C#\Bootcamp\vscode\Day 5\A3_DelegateInvoke2\obj\Debug\net7.0\A3_DelegateInvoke2.genruntimeconfig.cache
+C:\C#\Bootcamp\vscode\Day 5\A3_DelegateInvoke2\obj\Debug\net7.0\ref\A3_DelegateInvoke2.dll

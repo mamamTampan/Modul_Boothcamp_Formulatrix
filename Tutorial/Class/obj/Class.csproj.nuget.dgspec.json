@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\C#\\Tutorial\\Class\\Class.csproj": {}
+  },
+  "projects": {
+    "c:\\C#\\Tutorial\\Class2\\Class2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\C#\\Tutorial\\Class2\\Class2.csproj",
+        "projectName": "Class2",
+        "projectPath": "c:\\C#\\Tutorial\\Class2\\Class2.csproj",
+        "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
+        "outputPath": "c:\\C#\\Tutorial\\Class2\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\C#\\Tutorial\\Class\\Class.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\C#\\Tutorial\\Class\\Class.csproj",
+        "projectName": "Class",
+        "projectPath": "c:\\C#\\Tutorial\\Class\\Class.csproj",
+        "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
+        "outputPath": "c:\\C#\\Tutorial\\Class\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "c:\\C#\\Tutorial\\Class2\\Class2.csproj": {
+                "projectPath": "c:\\C#\\Tutorial\\Class2\\Class2.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+c:\C#\Bootcamp\vscode\Day 5 (new)\Value vs Reference\bin\Debug\net7.0\Value vs Reference.exe
+c:\C#\Bootcamp\vscode\Day 5 (new)\Value vs Reference\bin\Debug\net7.0\Value vs Reference.deps.json
+c:\C#\Bootcamp\vscode\Day 5 (new)\Value vs Reference\bin\Debug\net7.0\Value vs Reference.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day 5 (new)\Value vs Reference\bin\Debug\net7.0\Value vs Reference.dll
+c:\C#\Bootcamp\vscode\Day 5 (new)\Value vs Reference\bin\Debug\net7.0\Value vs Reference.pdb
+c:\C#\Bootcamp\vscode\Day 5 (new)\Value vs Reference\obj\Debug\net7.0\Value vs Reference.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day 5 (new)\Value vs Reference\obj\Debug\net7.0\Value vs Reference.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day 5 (new)\Value vs Reference\obj\Debug\net7.0\Value vs Reference.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day 5 (new)\Value vs Reference\obj\Debug\net7.0\Value vs Reference.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day 5 (new)\Value vs Reference\obj\Debug\net7.0\Value vs Reference.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day 5 (new)\Value vs Reference\obj\Debug\net7.0\Value vs Reference.dll
+c:\C#\Bootcamp\vscode\Day 5 (new)\Value vs Reference\obj\Debug\net7.0\refint\Value vs Reference.dll
+c:\C#\Bootcamp\vscode\Day 5 (new)\Value vs Reference\obj\Debug\net7.0\Value vs Reference.pdb
+c:\C#\Bootcamp\vscode\Day 5 (new)\Value vs Reference\obj\Debug\net7.0\Value vs Reference.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day 5 (new)\Value vs Reference\obj\Debug\net7.0\ref\Value vs Reference.dll

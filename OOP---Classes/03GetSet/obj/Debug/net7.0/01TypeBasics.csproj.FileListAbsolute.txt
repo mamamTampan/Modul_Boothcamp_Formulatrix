@@ -1,0 +1,20 @@
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 2\01TypeBasics\obj\Debug\net7.0\01TypeBasics.csproj.AssemblyReference.cache
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 2\01TypeBasics\obj\Debug\net7.0\01TypeBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 2\01TypeBasics\obj\Debug\net7.0\01TypeBasics.AssemblyInfoInputs.cache
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 2\01TypeBasics\obj\Debug\net7.0\01TypeBasics.AssemblyInfo.cs
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 2\01TypeBasics\obj\Debug\net7.0\01TypeBasics.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\OOP & Classes\03GetSet\bin\Debug\net7.0\01TypeBasics.exe
+c:\C#\Bootcamp\vscode\OOP & Classes\03GetSet\bin\Debug\net7.0\01TypeBasics.deps.json
+c:\C#\Bootcamp\vscode\OOP & Classes\03GetSet\bin\Debug\net7.0\01TypeBasics.runtimeconfig.json
+c:\C#\Bootcamp\vscode\OOP & Classes\03GetSet\bin\Debug\net7.0\01TypeBasics.dll
+c:\C#\Bootcamp\vscode\OOP & Classes\03GetSet\bin\Debug\net7.0\01TypeBasics.pdb
+c:\C#\Bootcamp\vscode\OOP & Classes\03GetSet\obj\Debug\net7.0\01TypeBasics.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\OOP & Classes\03GetSet\obj\Debug\net7.0\01TypeBasics.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\OOP & Classes\03GetSet\obj\Debug\net7.0\01TypeBasics.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\OOP & Classes\03GetSet\obj\Debug\net7.0\01TypeBasics.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\OOP & Classes\03GetSet\obj\Debug\net7.0\01TypeBasics.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\OOP & Classes\03GetSet\obj\Debug\net7.0\01TypeBasics.dll
+c:\C#\Bootcamp\vscode\OOP & Classes\03GetSet\obj\Debug\net7.0\refint\01TypeBasics.dll
+c:\C#\Bootcamp\vscode\OOP & Classes\03GetSet\obj\Debug\net7.0\01TypeBasics.pdb
+c:\C#\Bootcamp\vscode\OOP & Classes\03GetSet\obj\Debug\net7.0\01TypeBasics.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\OOP & Classes\03GetSet\obj\Debug\net7.0\ref\01TypeBasics.dll

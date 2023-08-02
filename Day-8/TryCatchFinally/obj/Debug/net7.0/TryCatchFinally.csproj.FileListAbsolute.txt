@@ -1,0 +1,15 @@
+c:\C#\Bootcamp\vscode\Day 8\TryCatchFinally\bin\Debug\net7.0\TryCatchFinally.exe
+c:\C#\Bootcamp\vscode\Day 8\TryCatchFinally\bin\Debug\net7.0\TryCatchFinally.deps.json
+c:\C#\Bootcamp\vscode\Day 8\TryCatchFinally\bin\Debug\net7.0\TryCatchFinally.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day 8\TryCatchFinally\bin\Debug\net7.0\TryCatchFinally.dll
+c:\C#\Bootcamp\vscode\Day 8\TryCatchFinally\bin\Debug\net7.0\TryCatchFinally.pdb
+c:\C#\Bootcamp\vscode\Day 8\TryCatchFinally\obj\Debug\net7.0\TryCatchFinally.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day 8\TryCatchFinally\obj\Debug\net7.0\TryCatchFinally.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day 8\TryCatchFinally\obj\Debug\net7.0\TryCatchFinally.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day 8\TryCatchFinally\obj\Debug\net7.0\TryCatchFinally.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day 8\TryCatchFinally\obj\Debug\net7.0\TryCatchFinally.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day 8\TryCatchFinally\obj\Debug\net7.0\TryCatchFinally.dll
+c:\C#\Bootcamp\vscode\Day 8\TryCatchFinally\obj\Debug\net7.0\refint\TryCatchFinally.dll
+c:\C#\Bootcamp\vscode\Day 8\TryCatchFinally\obj\Debug\net7.0\TryCatchFinally.pdb
+c:\C#\Bootcamp\vscode\Day 8\TryCatchFinally\obj\Debug\net7.0\TryCatchFinally.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day 8\TryCatchFinally\obj\Debug\net7.0\ref\TryCatchFinally.dll

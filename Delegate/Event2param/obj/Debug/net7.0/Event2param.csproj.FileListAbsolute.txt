@@ -1,0 +1,15 @@
+C:\C#\Bootcamp\vscode\Day 5\Event2param\bin\Debug\net7.0\Event2param.exe
+C:\C#\Bootcamp\vscode\Day 5\Event2param\bin\Debug\net7.0\Event2param.deps.json
+C:\C#\Bootcamp\vscode\Day 5\Event2param\bin\Debug\net7.0\Event2param.runtimeconfig.json
+C:\C#\Bootcamp\vscode\Day 5\Event2param\bin\Debug\net7.0\Event2param.dll
+C:\C#\Bootcamp\vscode\Day 5\Event2param\bin\Debug\net7.0\Event2param.pdb
+C:\C#\Bootcamp\vscode\Day 5\Event2param\obj\Debug\net7.0\Event2param.csproj.AssemblyReference.cache
+C:\C#\Bootcamp\vscode\Day 5\Event2param\obj\Debug\net7.0\Event2param.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Bootcamp\vscode\Day 5\Event2param\obj\Debug\net7.0\Event2param.AssemblyInfoInputs.cache
+C:\C#\Bootcamp\vscode\Day 5\Event2param\obj\Debug\net7.0\Event2param.AssemblyInfo.cs
+C:\C#\Bootcamp\vscode\Day 5\Event2param\obj\Debug\net7.0\Event2param.csproj.CoreCompileInputs.cache
+C:\C#\Bootcamp\vscode\Day 5\Event2param\obj\Debug\net7.0\Event2param.dll
+C:\C#\Bootcamp\vscode\Day 5\Event2param\obj\Debug\net7.0\refint\Event2param.dll
+C:\C#\Bootcamp\vscode\Day 5\Event2param\obj\Debug\net7.0\Event2param.pdb
+C:\C#\Bootcamp\vscode\Day 5\Event2param\obj\Debug\net7.0\Event2param.genruntimeconfig.cache
+C:\C#\Bootcamp\vscode\Day 5\Event2param\obj\Debug\net7.0\ref\Event2param.dll

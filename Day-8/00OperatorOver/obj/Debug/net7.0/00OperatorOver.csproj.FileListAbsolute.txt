@@ -1,0 +1,15 @@
+c:\C#\Bootcamp\vscode\Day 8\00OperatorOver\bin\Debug\net7.0\00OperatorOver.exe
+c:\C#\Bootcamp\vscode\Day 8\00OperatorOver\bin\Debug\net7.0\00OperatorOver.deps.json
+c:\C#\Bootcamp\vscode\Day 8\00OperatorOver\bin\Debug\net7.0\00OperatorOver.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day 8\00OperatorOver\bin\Debug\net7.0\00OperatorOver.dll
+c:\C#\Bootcamp\vscode\Day 8\00OperatorOver\bin\Debug\net7.0\00OperatorOver.pdb
+c:\C#\Bootcamp\vscode\Day 8\00OperatorOver\obj\Debug\net7.0\00OperatorOver.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day 8\00OperatorOver\obj\Debug\net7.0\00OperatorOver.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day 8\00OperatorOver\obj\Debug\net7.0\00OperatorOver.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day 8\00OperatorOver\obj\Debug\net7.0\00OperatorOver.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day 8\00OperatorOver\obj\Debug\net7.0\00OperatorOver.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day 8\00OperatorOver\obj\Debug\net7.0\00OperatorOver.dll
+c:\C#\Bootcamp\vscode\Day 8\00OperatorOver\obj\Debug\net7.0\refint\00OperatorOver.dll
+c:\C#\Bootcamp\vscode\Day 8\00OperatorOver\obj\Debug\net7.0\00OperatorOver.pdb
+c:\C#\Bootcamp\vscode\Day 8\00OperatorOver\obj\Debug\net7.0\00OperatorOver.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day 8\00OperatorOver\obj\Debug\net7.0\ref\00OperatorOver.dll

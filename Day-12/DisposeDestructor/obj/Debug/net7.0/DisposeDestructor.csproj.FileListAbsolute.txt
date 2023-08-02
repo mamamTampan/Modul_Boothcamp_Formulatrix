@@ -1,0 +1,15 @@
+c:\C#\Bootcamp\vscode\Day 12\DisposeDestructor\bin\Debug\net7.0\DisposeDestructor.exe
+c:\C#\Bootcamp\vscode\Day 12\DisposeDestructor\bin\Debug\net7.0\DisposeDestructor.deps.json
+c:\C#\Bootcamp\vscode\Day 12\DisposeDestructor\bin\Debug\net7.0\DisposeDestructor.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day 12\DisposeDestructor\bin\Debug\net7.0\DisposeDestructor.dll
+c:\C#\Bootcamp\vscode\Day 12\DisposeDestructor\bin\Debug\net7.0\DisposeDestructor.pdb
+c:\C#\Bootcamp\vscode\Day 12\DisposeDestructor\obj\Debug\net7.0\DisposeDestructor.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day 12\DisposeDestructor\obj\Debug\net7.0\DisposeDestructor.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day 12\DisposeDestructor\obj\Debug\net7.0\DisposeDestructor.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day 12\DisposeDestructor\obj\Debug\net7.0\DisposeDestructor.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day 12\DisposeDestructor\obj\Debug\net7.0\DisposeDestructor.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day 12\DisposeDestructor\obj\Debug\net7.0\DisposeDestructor.dll
+c:\C#\Bootcamp\vscode\Day 12\DisposeDestructor\obj\Debug\net7.0\refint\DisposeDestructor.dll
+c:\C#\Bootcamp\vscode\Day 12\DisposeDestructor\obj\Debug\net7.0\DisposeDestructor.pdb
+c:\C#\Bootcamp\vscode\Day 12\DisposeDestructor\obj\Debug\net7.0\DisposeDestructor.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day 12\DisposeDestructor\obj\Debug\net7.0\ref\DisposeDestructor.dll

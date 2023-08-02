@@ -1,0 +1,15 @@
+c:\C#\Bootcamp\vscode\Day 8\Iterator\bin\Debug\net7.0\Iterator.exe
+c:\C#\Bootcamp\vscode\Day 8\Iterator\bin\Debug\net7.0\Iterator.deps.json
+c:\C#\Bootcamp\vscode\Day 8\Iterator\bin\Debug\net7.0\Iterator.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day 8\Iterator\bin\Debug\net7.0\Iterator.dll
+c:\C#\Bootcamp\vscode\Day 8\Iterator\bin\Debug\net7.0\Iterator.pdb
+c:\C#\Bootcamp\vscode\Day 8\Iterator\obj\Debug\net7.0\Iterator.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day 8\Iterator\obj\Debug\net7.0\Iterator.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day 8\Iterator\obj\Debug\net7.0\Iterator.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day 8\Iterator\obj\Debug\net7.0\Iterator.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day 8\Iterator\obj\Debug\net7.0\Iterator.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day 8\Iterator\obj\Debug\net7.0\Iterator.dll
+c:\C#\Bootcamp\vscode\Day 8\Iterator\obj\Debug\net7.0\refint\Iterator.dll
+c:\C#\Bootcamp\vscode\Day 8\Iterator\obj\Debug\net7.0\Iterator.pdb
+c:\C#\Bootcamp\vscode\Day 8\Iterator\obj\Debug\net7.0\Iterator.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day 8\Iterator\obj\Debug\net7.0\ref\Iterator.dll

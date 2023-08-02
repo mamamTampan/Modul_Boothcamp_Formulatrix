@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>Object_as_Reference__Class_</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="Car.cs" />
+    <Compile Include="Door.cs" />
+    <Compile Include="Lamp.cs" />
+    <Compile Include="Machine.cs" />
+  </ItemGroup>
+</Project>

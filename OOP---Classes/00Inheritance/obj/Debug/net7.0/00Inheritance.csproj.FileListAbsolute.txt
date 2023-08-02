@@ -1,0 +1,15 @@
+C:\C#\Bootcamp\vscode\OOP & Classes\00Inheritance\bin\Debug\net7.0\00Inheritance.exe
+C:\C#\Bootcamp\vscode\OOP & Classes\00Inheritance\bin\Debug\net7.0\00Inheritance.deps.json
+C:\C#\Bootcamp\vscode\OOP & Classes\00Inheritance\bin\Debug\net7.0\00Inheritance.runtimeconfig.json
+C:\C#\Bootcamp\vscode\OOP & Classes\00Inheritance\bin\Debug\net7.0\00Inheritance.dll
+C:\C#\Bootcamp\vscode\OOP & Classes\00Inheritance\bin\Debug\net7.0\00Inheritance.pdb
+C:\C#\Bootcamp\vscode\OOP & Classes\00Inheritance\obj\Debug\net7.0\00Inheritance.csproj.AssemblyReference.cache
+C:\C#\Bootcamp\vscode\OOP & Classes\00Inheritance\obj\Debug\net7.0\00Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Bootcamp\vscode\OOP & Classes\00Inheritance\obj\Debug\net7.0\00Inheritance.AssemblyInfoInputs.cache
+C:\C#\Bootcamp\vscode\OOP & Classes\00Inheritance\obj\Debug\net7.0\00Inheritance.AssemblyInfo.cs
+C:\C#\Bootcamp\vscode\OOP & Classes\00Inheritance\obj\Debug\net7.0\00Inheritance.csproj.CoreCompileInputs.cache
+C:\C#\Bootcamp\vscode\OOP & Classes\00Inheritance\obj\Debug\net7.0\00Inheritance.dll
+C:\C#\Bootcamp\vscode\OOP & Classes\00Inheritance\obj\Debug\net7.0\refint\00Inheritance.dll
+C:\C#\Bootcamp\vscode\OOP & Classes\00Inheritance\obj\Debug\net7.0\00Inheritance.pdb
+C:\C#\Bootcamp\vscode\OOP & Classes\00Inheritance\obj\Debug\net7.0\00Inheritance.genruntimeconfig.cache
+C:\C#\Bootcamp\vscode\OOP & Classes\00Inheritance\obj\Debug\net7.0\ref\00Inheritance.dll

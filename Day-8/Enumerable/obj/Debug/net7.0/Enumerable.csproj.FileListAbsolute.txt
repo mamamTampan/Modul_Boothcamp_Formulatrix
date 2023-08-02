@@ -1,0 +1,15 @@
+c:\C#\Bootcamp\vscode\Day 8\Enumerable\bin\Debug\net7.0\Enumerable.exe
+c:\C#\Bootcamp\vscode\Day 8\Enumerable\bin\Debug\net7.0\Enumerable.deps.json
+c:\C#\Bootcamp\vscode\Day 8\Enumerable\bin\Debug\net7.0\Enumerable.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day 8\Enumerable\bin\Debug\net7.0\Enumerable.dll
+c:\C#\Bootcamp\vscode\Day 8\Enumerable\bin\Debug\net7.0\Enumerable.pdb
+c:\C#\Bootcamp\vscode\Day 8\Enumerable\obj\Debug\net7.0\Enumerable.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day 8\Enumerable\obj\Debug\net7.0\Enumerable.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day 8\Enumerable\obj\Debug\net7.0\Enumerable.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day 8\Enumerable\obj\Debug\net7.0\Enumerable.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day 8\Enumerable\obj\Debug\net7.0\Enumerable.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day 8\Enumerable\obj\Debug\net7.0\Enumerable.dll
+c:\C#\Bootcamp\vscode\Day 8\Enumerable\obj\Debug\net7.0\refint\Enumerable.dll
+c:\C#\Bootcamp\vscode\Day 8\Enumerable\obj\Debug\net7.0\Enumerable.pdb
+c:\C#\Bootcamp\vscode\Day 8\Enumerable\obj\Debug\net7.0\Enumerable.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day 8\Enumerable\obj\Debug\net7.0\ref\Enumerable.dll

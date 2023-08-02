@@ -1,0 +1,15 @@
+C:\C#\Bootcamp\vscode\Day 5\A4_BasicMulticastDelegate\bin\Debug\net7.0\A4_BasicMulticastDelegate.exe
+C:\C#\Bootcamp\vscode\Day 5\A4_BasicMulticastDelegate\bin\Debug\net7.0\A4_BasicMulticastDelegate.deps.json
+C:\C#\Bootcamp\vscode\Day 5\A4_BasicMulticastDelegate\bin\Debug\net7.0\A4_BasicMulticastDelegate.runtimeconfig.json
+C:\C#\Bootcamp\vscode\Day 5\A4_BasicMulticastDelegate\bin\Debug\net7.0\A4_BasicMulticastDelegate.dll
+C:\C#\Bootcamp\vscode\Day 5\A4_BasicMulticastDelegate\bin\Debug\net7.0\A4_BasicMulticastDelegate.pdb
+C:\C#\Bootcamp\vscode\Day 5\A4_BasicMulticastDelegate\obj\Debug\net7.0\A4_BasicMulticastDelegate.csproj.AssemblyReference.cache
+C:\C#\Bootcamp\vscode\Day 5\A4_BasicMulticastDelegate\obj\Debug\net7.0\A4_BasicMulticastDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Bootcamp\vscode\Day 5\A4_BasicMulticastDelegate\obj\Debug\net7.0\A4_BasicMulticastDelegate.AssemblyInfoInputs.cache
+C:\C#\Bootcamp\vscode\Day 5\A4_BasicMulticastDelegate\obj\Debug\net7.0\A4_BasicMulticastDelegate.AssemblyInfo.cs
+C:\C#\Bootcamp\vscode\Day 5\A4_BasicMulticastDelegate\obj\Debug\net7.0\A4_BasicMulticastDelegate.csproj.CoreCompileInputs.cache
+C:\C#\Bootcamp\vscode\Day 5\A4_BasicMulticastDelegate\obj\Debug\net7.0\A4_BasicMulticastDelegate.dll
+C:\C#\Bootcamp\vscode\Day 5\A4_BasicMulticastDelegate\obj\Debug\net7.0\refint\A4_BasicMulticastDelegate.dll
+C:\C#\Bootcamp\vscode\Day 5\A4_BasicMulticastDelegate\obj\Debug\net7.0\A4_BasicMulticastDelegate.pdb
+C:\C#\Bootcamp\vscode\Day 5\A4_BasicMulticastDelegate\obj\Debug\net7.0\A4_BasicMulticastDelegate.genruntimeconfig.cache
+C:\C#\Bootcamp\vscode\Day 5\A4_BasicMulticastDelegate\obj\Debug\net7.0\ref\A4_BasicMulticastDelegate.dll

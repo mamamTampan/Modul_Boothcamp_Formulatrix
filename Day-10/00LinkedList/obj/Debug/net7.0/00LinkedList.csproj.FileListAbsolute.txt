@@ -1,0 +1,15 @@
+d:\C#\Bootcamp\vscode\Day 10\00LinkedList\bin\Debug\net7.0\00LinkedList.exe
+d:\C#\Bootcamp\vscode\Day 10\00LinkedList\bin\Debug\net7.0\00LinkedList.deps.json
+d:\C#\Bootcamp\vscode\Day 10\00LinkedList\bin\Debug\net7.0\00LinkedList.runtimeconfig.json
+d:\C#\Bootcamp\vscode\Day 10\00LinkedList\bin\Debug\net7.0\00LinkedList.dll
+d:\C#\Bootcamp\vscode\Day 10\00LinkedList\bin\Debug\net7.0\00LinkedList.pdb
+d:\C#\Bootcamp\vscode\Day 10\00LinkedList\obj\Debug\net7.0\00LinkedList.csproj.AssemblyReference.cache
+d:\C#\Bootcamp\vscode\Day 10\00LinkedList\obj\Debug\net7.0\00LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+d:\C#\Bootcamp\vscode\Day 10\00LinkedList\obj\Debug\net7.0\00LinkedList.AssemblyInfoInputs.cache
+d:\C#\Bootcamp\vscode\Day 10\00LinkedList\obj\Debug\net7.0\00LinkedList.AssemblyInfo.cs
+d:\C#\Bootcamp\vscode\Day 10\00LinkedList\obj\Debug\net7.0\00LinkedList.csproj.CoreCompileInputs.cache
+d:\C#\Bootcamp\vscode\Day 10\00LinkedList\obj\Debug\net7.0\00LinkedList.dll
+d:\C#\Bootcamp\vscode\Day 10\00LinkedList\obj\Debug\net7.0\refint\00LinkedList.dll
+d:\C#\Bootcamp\vscode\Day 10\00LinkedList\obj\Debug\net7.0\00LinkedList.pdb
+d:\C#\Bootcamp\vscode\Day 10\00LinkedList\obj\Debug\net7.0\00LinkedList.genruntimeconfig.cache
+d:\C#\Bootcamp\vscode\Day 10\00LinkedList\obj\Debug\net7.0\ref\00LinkedList.dll

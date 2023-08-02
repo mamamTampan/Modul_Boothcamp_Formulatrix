@@ -1,0 +1,15 @@
+c:\C#\Bootcamp\vscode\OOP & Classes\05A. Virtual Override\bin\Debug\net7.0\05A. Virtual Override.exe
+c:\C#\Bootcamp\vscode\OOP & Classes\05A. Virtual Override\bin\Debug\net7.0\05A. Virtual Override.deps.json
+c:\C#\Bootcamp\vscode\OOP & Classes\05A. Virtual Override\bin\Debug\net7.0\05A. Virtual Override.runtimeconfig.json
+c:\C#\Bootcamp\vscode\OOP & Classes\05A. Virtual Override\bin\Debug\net7.0\05A. Virtual Override.dll
+c:\C#\Bootcamp\vscode\OOP & Classes\05A. Virtual Override\bin\Debug\net7.0\05A. Virtual Override.pdb
+c:\C#\Bootcamp\vscode\OOP & Classes\05A. Virtual Override\obj\Debug\net7.0\05A. Virtual Override.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\OOP & Classes\05A. Virtual Override\obj\Debug\net7.0\05A. Virtual Override.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\OOP & Classes\05A. Virtual Override\obj\Debug\net7.0\05A. Virtual Override.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\OOP & Classes\05A. Virtual Override\obj\Debug\net7.0\05A. Virtual Override.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\OOP & Classes\05A. Virtual Override\obj\Debug\net7.0\05A. Virtual Override.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\OOP & Classes\05A. Virtual Override\obj\Debug\net7.0\05A. Virtual Override.dll
+c:\C#\Bootcamp\vscode\OOP & Classes\05A. Virtual Override\obj\Debug\net7.0\refint\05A. Virtual Override.dll
+c:\C#\Bootcamp\vscode\OOP & Classes\05A. Virtual Override\obj\Debug\net7.0\05A. Virtual Override.pdb
+c:\C#\Bootcamp\vscode\OOP & Classes\05A. Virtual Override\obj\Debug\net7.0\05A. Virtual Override.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\OOP & Classes\05A. Virtual Override\obj\Debug\net7.0\ref\05A. Virtual Override.dll

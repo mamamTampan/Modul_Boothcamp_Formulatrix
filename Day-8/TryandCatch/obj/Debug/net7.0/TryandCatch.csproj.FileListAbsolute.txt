@@ -1,0 +1,15 @@
+c:\C#\Bootcamp\vscode\Day 8\TryandCatch\bin\Debug\net7.0\TryandCatch.exe
+c:\C#\Bootcamp\vscode\Day 8\TryandCatch\bin\Debug\net7.0\TryandCatch.deps.json
+c:\C#\Bootcamp\vscode\Day 8\TryandCatch\bin\Debug\net7.0\TryandCatch.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day 8\TryandCatch\bin\Debug\net7.0\TryandCatch.dll
+c:\C#\Bootcamp\vscode\Day 8\TryandCatch\bin\Debug\net7.0\TryandCatch.pdb
+c:\C#\Bootcamp\vscode\Day 8\TryandCatch\obj\Debug\net7.0\TryandCatch.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day 8\TryandCatch\obj\Debug\net7.0\TryandCatch.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day 8\TryandCatch\obj\Debug\net7.0\TryandCatch.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day 8\TryandCatch\obj\Debug\net7.0\TryandCatch.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day 8\TryandCatch\obj\Debug\net7.0\TryandCatch.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day 8\TryandCatch\obj\Debug\net7.0\TryandCatch.dll
+c:\C#\Bootcamp\vscode\Day 8\TryandCatch\obj\Debug\net7.0\refint\TryandCatch.dll
+c:\C#\Bootcamp\vscode\Day 8\TryandCatch\obj\Debug\net7.0\TryandCatch.pdb
+c:\C#\Bootcamp\vscode\Day 8\TryandCatch\obj\Debug\net7.0\TryandCatch.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day 8\TryandCatch\obj\Debug\net7.0\ref\TryandCatch.dll

@@ -1,0 +1,15 @@
+C:\C#\Bootcamp\vscode\Day 5\Delegate2param\bin\Debug\net7.0\Delegate2param.exe
+C:\C#\Bootcamp\vscode\Day 5\Delegate2param\bin\Debug\net7.0\Delegate2param.deps.json
+C:\C#\Bootcamp\vscode\Day 5\Delegate2param\bin\Debug\net7.0\Delegate2param.runtimeconfig.json
+C:\C#\Bootcamp\vscode\Day 5\Delegate2param\bin\Debug\net7.0\Delegate2param.dll
+C:\C#\Bootcamp\vscode\Day 5\Delegate2param\bin\Debug\net7.0\Delegate2param.pdb
+C:\C#\Bootcamp\vscode\Day 5\Delegate2param\obj\Debug\net7.0\Delegate2param.csproj.AssemblyReference.cache
+C:\C#\Bootcamp\vscode\Day 5\Delegate2param\obj\Debug\net7.0\Delegate2param.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Bootcamp\vscode\Day 5\Delegate2param\obj\Debug\net7.0\Delegate2param.AssemblyInfoInputs.cache
+C:\C#\Bootcamp\vscode\Day 5\Delegate2param\obj\Debug\net7.0\Delegate2param.AssemblyInfo.cs
+C:\C#\Bootcamp\vscode\Day 5\Delegate2param\obj\Debug\net7.0\Delegate2param.csproj.CoreCompileInputs.cache
+C:\C#\Bootcamp\vscode\Day 5\Delegate2param\obj\Debug\net7.0\Delegate2param.dll
+C:\C#\Bootcamp\vscode\Day 5\Delegate2param\obj\Debug\net7.0\refint\Delegate2param.dll
+C:\C#\Bootcamp\vscode\Day 5\Delegate2param\obj\Debug\net7.0\Delegate2param.pdb
+C:\C#\Bootcamp\vscode\Day 5\Delegate2param\obj\Debug\net7.0\Delegate2param.genruntimeconfig.cache
+C:\C#\Bootcamp\vscode\Day 5\Delegate2param\obj\Debug\net7.0\ref\Delegate2param.dll

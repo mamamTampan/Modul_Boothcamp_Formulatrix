@@ -1,0 +1,15 @@
+c:\C#\Bootcamp\vscode\OOP & Classes\06ConcreteClass\bin\Debug\net7.0\Abstraction.exe
+c:\C#\Bootcamp\vscode\OOP & Classes\06ConcreteClass\bin\Debug\net7.0\Abstraction.deps.json
+c:\C#\Bootcamp\vscode\OOP & Classes\06ConcreteClass\bin\Debug\net7.0\Abstraction.runtimeconfig.json
+c:\C#\Bootcamp\vscode\OOP & Classes\06ConcreteClass\bin\Debug\net7.0\Abstraction.dll
+c:\C#\Bootcamp\vscode\OOP & Classes\06ConcreteClass\bin\Debug\net7.0\Abstraction.pdb
+c:\C#\Bootcamp\vscode\OOP & Classes\06ConcreteClass\obj\Debug\net7.0\Abstraction.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\OOP & Classes\06ConcreteClass\obj\Debug\net7.0\Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\OOP & Classes\06ConcreteClass\obj\Debug\net7.0\Abstraction.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\OOP & Classes\06ConcreteClass\obj\Debug\net7.0\Abstraction.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\OOP & Classes\06ConcreteClass\obj\Debug\net7.0\Abstraction.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\OOP & Classes\06ConcreteClass\obj\Debug\net7.0\Abstraction.dll
+c:\C#\Bootcamp\vscode\OOP & Classes\06ConcreteClass\obj\Debug\net7.0\refint\Abstraction.dll
+c:\C#\Bootcamp\vscode\OOP & Classes\06ConcreteClass\obj\Debug\net7.0\Abstraction.pdb
+c:\C#\Bootcamp\vscode\OOP & Classes\06ConcreteClass\obj\Debug\net7.0\Abstraction.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\OOP & Classes\06ConcreteClass\obj\Debug\net7.0\ref\Abstraction.dll

@@ -1,0 +1,15 @@
+c:\C#\Bootcamp\vscode\Day 8\OperatorOverloading\bin\Debug\net7.0\OperatorOverloading.exe
+c:\C#\Bootcamp\vscode\Day 8\OperatorOverloading\bin\Debug\net7.0\OperatorOverloading.deps.json
+c:\C#\Bootcamp\vscode\Day 8\OperatorOverloading\bin\Debug\net7.0\OperatorOverloading.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day 8\OperatorOverloading\bin\Debug\net7.0\OperatorOverloading.dll
+c:\C#\Bootcamp\vscode\Day 8\OperatorOverloading\bin\Debug\net7.0\OperatorOverloading.pdb
+c:\C#\Bootcamp\vscode\Day 8\OperatorOverloading\obj\Debug\net7.0\OperatorOverloading.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day 8\OperatorOverloading\obj\Debug\net7.0\OperatorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day 8\OperatorOverloading\obj\Debug\net7.0\OperatorOverloading.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day 8\OperatorOverloading\obj\Debug\net7.0\OperatorOverloading.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day 8\OperatorOverloading\obj\Debug\net7.0\OperatorOverloading.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day 8\OperatorOverloading\obj\Debug\net7.0\OperatorOverloading.dll
+c:\C#\Bootcamp\vscode\Day 8\OperatorOverloading\obj\Debug\net7.0\refint\OperatorOverloading.dll
+c:\C#\Bootcamp\vscode\Day 8\OperatorOverloading\obj\Debug\net7.0\OperatorOverloading.pdb
+c:\C#\Bootcamp\vscode\Day 8\OperatorOverloading\obj\Debug\net7.0\OperatorOverloading.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day 8\OperatorOverloading\obj\Debug\net7.0\ref\OperatorOverloading.dll

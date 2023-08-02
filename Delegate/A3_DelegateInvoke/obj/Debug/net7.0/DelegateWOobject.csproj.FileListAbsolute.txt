@@ -1,0 +1,15 @@
+c:\C#\Bootcamp\vscode\Day 5\DelegateWOobject\bin\Debug\net7.0\DelegateWOobject.exe
+c:\C#\Bootcamp\vscode\Day 5\DelegateWOobject\bin\Debug\net7.0\DelegateWOobject.deps.json
+c:\C#\Bootcamp\vscode\Day 5\DelegateWOobject\bin\Debug\net7.0\DelegateWOobject.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day 5\DelegateWOobject\bin\Debug\net7.0\DelegateWOobject.dll
+c:\C#\Bootcamp\vscode\Day 5\DelegateWOobject\bin\Debug\net7.0\DelegateWOobject.pdb
+c:\C#\Bootcamp\vscode\Day 5\DelegateWOobject\obj\Debug\net7.0\DelegateWOobject.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day 5\DelegateWOobject\obj\Debug\net7.0\DelegateWOobject.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day 5\DelegateWOobject\obj\Debug\net7.0\DelegateWOobject.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day 5\DelegateWOobject\obj\Debug\net7.0\DelegateWOobject.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day 5\DelegateWOobject\obj\Debug\net7.0\DelegateWOobject.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day 5\DelegateWOobject\obj\Debug\net7.0\DelegateWOobject.dll
+c:\C#\Bootcamp\vscode\Day 5\DelegateWOobject\obj\Debug\net7.0\refint\DelegateWOobject.dll
+c:\C#\Bootcamp\vscode\Day 5\DelegateWOobject\obj\Debug\net7.0\DelegateWOobject.pdb
+c:\C#\Bootcamp\vscode\Day 5\DelegateWOobject\obj\Debug\net7.0\DelegateWOobject.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day 5\DelegateWOobject\obj\Debug\net7.0\ref\DelegateWOobject.dll

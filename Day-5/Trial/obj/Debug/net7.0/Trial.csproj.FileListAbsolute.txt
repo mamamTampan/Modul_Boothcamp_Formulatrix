@@ -1,0 +1,5 @@
+c:\C#\Bootcamp\vscode\Day 5 (new)\Trial\obj\Debug\net7.0\Trial.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day 5 (new)\Trial\obj\Debug\net7.0\Trial.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day 5 (new)\Trial\obj\Debug\net7.0\Trial.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day 5 (new)\Trial\obj\Debug\net7.0\Trial.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day 5 (new)\Trial\obj\Debug\net7.0\Trial.csproj.CoreCompileInputs.cache

@@ -1,0 +1,5 @@
+c:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 4\00UpcastDowncast\obj\Debug\net7.0\00UpcastDowncast.csproj.AssemblyReference.cache
+c:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 4\00UpcastDowncast\obj\Debug\net7.0\00UpcastDowncast.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 4\00UpcastDowncast\obj\Debug\net7.0\00UpcastDowncast.AssemblyInfoInputs.cache
+c:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 4\00UpcastDowncast\obj\Debug\net7.0\00UpcastDowncast.AssemblyInfo.cs
+c:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 4\00UpcastDowncast\obj\Debug\net7.0\00UpcastDowncast.csproj.CoreCompileInputs.cache

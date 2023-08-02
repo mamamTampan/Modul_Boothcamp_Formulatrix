@@ -1,0 +1,15 @@
+d:\C#\Bootcamp\vscode\Day 10\00Queue\bin\Debug\net7.0\00Queue.exe
+d:\C#\Bootcamp\vscode\Day 10\00Queue\bin\Debug\net7.0\00Queue.deps.json
+d:\C#\Bootcamp\vscode\Day 10\00Queue\bin\Debug\net7.0\00Queue.runtimeconfig.json
+d:\C#\Bootcamp\vscode\Day 10\00Queue\bin\Debug\net7.0\00Queue.dll
+d:\C#\Bootcamp\vscode\Day 10\00Queue\bin\Debug\net7.0\00Queue.pdb
+d:\C#\Bootcamp\vscode\Day 10\00Queue\obj\Debug\net7.0\00Queue.csproj.AssemblyReference.cache
+d:\C#\Bootcamp\vscode\Day 10\00Queue\obj\Debug\net7.0\00Queue.GeneratedMSBuildEditorConfig.editorconfig
+d:\C#\Bootcamp\vscode\Day 10\00Queue\obj\Debug\net7.0\00Queue.AssemblyInfoInputs.cache
+d:\C#\Bootcamp\vscode\Day 10\00Queue\obj\Debug\net7.0\00Queue.AssemblyInfo.cs
+d:\C#\Bootcamp\vscode\Day 10\00Queue\obj\Debug\net7.0\00Queue.csproj.CoreCompileInputs.cache
+d:\C#\Bootcamp\vscode\Day 10\00Queue\obj\Debug\net7.0\00Queue.dll
+d:\C#\Bootcamp\vscode\Day 10\00Queue\obj\Debug\net7.0\refint\00Queue.dll
+d:\C#\Bootcamp\vscode\Day 10\00Queue\obj\Debug\net7.0\00Queue.pdb
+d:\C#\Bootcamp\vscode\Day 10\00Queue\obj\Debug\net7.0\00Queue.genruntimeconfig.cache
+d:\C#\Bootcamp\vscode\Day 10\00Queue\obj\Debug\net7.0\ref\00Queue.dll

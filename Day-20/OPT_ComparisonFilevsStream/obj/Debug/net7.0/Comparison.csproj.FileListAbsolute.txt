@@ -1,0 +1,15 @@
+c:\C#\Bootcamp\vscode\Day 20\Comparison\bin\Debug\net7.0\Comparison.exe
+c:\C#\Bootcamp\vscode\Day 20\Comparison\bin\Debug\net7.0\Comparison.deps.json
+c:\C#\Bootcamp\vscode\Day 20\Comparison\bin\Debug\net7.0\Comparison.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day 20\Comparison\bin\Debug\net7.0\Comparison.dll
+c:\C#\Bootcamp\vscode\Day 20\Comparison\bin\Debug\net7.0\Comparison.pdb
+c:\C#\Bootcamp\vscode\Day 20\Comparison\obj\Debug\net7.0\Comparison.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day 20\Comparison\obj\Debug\net7.0\Comparison.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day 20\Comparison\obj\Debug\net7.0\Comparison.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day 20\Comparison\obj\Debug\net7.0\Comparison.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day 20\Comparison\obj\Debug\net7.0\Comparison.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day 20\Comparison\obj\Debug\net7.0\Comparison.dll
+c:\C#\Bootcamp\vscode\Day 20\Comparison\obj\Debug\net7.0\refint\Comparison.dll
+c:\C#\Bootcamp\vscode\Day 20\Comparison\obj\Debug\net7.0\Comparison.pdb
+c:\C#\Bootcamp\vscode\Day 20\Comparison\obj\Debug\net7.0\Comparison.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day 20\Comparison\obj\Debug\net7.0\ref\Comparison.dll

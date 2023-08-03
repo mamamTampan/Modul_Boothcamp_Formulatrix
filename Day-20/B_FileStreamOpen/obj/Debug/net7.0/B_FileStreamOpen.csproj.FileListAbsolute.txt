@@ -1,0 +1,15 @@
+C:\C#\Bootcamp\vscode\Day 20\B_FileStreamOpen\bin\Debug\net7.0\B_FileStreamOpen.exe
+C:\C#\Bootcamp\vscode\Day 20\B_FileStreamOpen\bin\Debug\net7.0\B_FileStreamOpen.deps.json
+C:\C#\Bootcamp\vscode\Day 20\B_FileStreamOpen\bin\Debug\net7.0\B_FileStreamOpen.runtimeconfig.json
+C:\C#\Bootcamp\vscode\Day 20\B_FileStreamOpen\bin\Debug\net7.0\B_FileStreamOpen.dll
+C:\C#\Bootcamp\vscode\Day 20\B_FileStreamOpen\bin\Debug\net7.0\B_FileStreamOpen.pdb
+C:\C#\Bootcamp\vscode\Day 20\B_FileStreamOpen\obj\Debug\net7.0\B_FileStreamOpen.csproj.AssemblyReference.cache
+C:\C#\Bootcamp\vscode\Day 20\B_FileStreamOpen\obj\Debug\net7.0\B_FileStreamOpen.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Bootcamp\vscode\Day 20\B_FileStreamOpen\obj\Debug\net7.0\B_FileStreamOpen.AssemblyInfoInputs.cache
+C:\C#\Bootcamp\vscode\Day 20\B_FileStreamOpen\obj\Debug\net7.0\B_FileStreamOpen.AssemblyInfo.cs
+C:\C#\Bootcamp\vscode\Day 20\B_FileStreamOpen\obj\Debug\net7.0\B_FileStreamOpen.csproj.CoreCompileInputs.cache
+C:\C#\Bootcamp\vscode\Day 20\B_FileStreamOpen\obj\Debug\net7.0\B_FileStreamOpen.dll
+C:\C#\Bootcamp\vscode\Day 20\B_FileStreamOpen\obj\Debug\net7.0\refint\B_FileStreamOpen.dll
+C:\C#\Bootcamp\vscode\Day 20\B_FileStreamOpen\obj\Debug\net7.0\B_FileStreamOpen.pdb
+C:\C#\Bootcamp\vscode\Day 20\B_FileStreamOpen\obj\Debug\net7.0\B_FileStreamOpen.genruntimeconfig.cache
+C:\C#\Bootcamp\vscode\Day 20\B_FileStreamOpen\obj\Debug\net7.0\ref\B_FileStreamOpen.dll

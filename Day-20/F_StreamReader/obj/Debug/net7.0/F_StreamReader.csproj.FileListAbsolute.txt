@@ -1,0 +1,15 @@
+c:\Users\Batch 3\Desktop\Day-20\F_StreamReader\bin\Debug\net7.0\F_StreamReader.exe
+c:\Users\Batch 3\Desktop\Day-20\F_StreamReader\bin\Debug\net7.0\F_StreamReader.deps.json
+c:\Users\Batch 3\Desktop\Day-20\F_StreamReader\bin\Debug\net7.0\F_StreamReader.runtimeconfig.json
+c:\Users\Batch 3\Desktop\Day-20\F_StreamReader\bin\Debug\net7.0\F_StreamReader.dll
+c:\Users\Batch 3\Desktop\Day-20\F_StreamReader\bin\Debug\net7.0\F_StreamReader.pdb
+c:\Users\Batch 3\Desktop\Day-20\F_StreamReader\obj\Debug\net7.0\F_StreamReader.csproj.AssemblyReference.cache
+c:\Users\Batch 3\Desktop\Day-20\F_StreamReader\obj\Debug\net7.0\F_StreamReader.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Batch 3\Desktop\Day-20\F_StreamReader\obj\Debug\net7.0\F_StreamReader.AssemblyInfoInputs.cache
+c:\Users\Batch 3\Desktop\Day-20\F_StreamReader\obj\Debug\net7.0\F_StreamReader.AssemblyInfo.cs
+c:\Users\Batch 3\Desktop\Day-20\F_StreamReader\obj\Debug\net7.0\F_StreamReader.csproj.CoreCompileInputs.cache
+c:\Users\Batch 3\Desktop\Day-20\F_StreamReader\obj\Debug\net7.0\F_StreamReader.dll
+c:\Users\Batch 3\Desktop\Day-20\F_StreamReader\obj\Debug\net7.0\refint\F_StreamReader.dll
+c:\Users\Batch 3\Desktop\Day-20\F_StreamReader\obj\Debug\net7.0\F_StreamReader.pdb
+c:\Users\Batch 3\Desktop\Day-20\F_StreamReader\obj\Debug\net7.0\F_StreamReader.genruntimeconfig.cache
+c:\Users\Batch 3\Desktop\Day-20\F_StreamReader\obj\Debug\net7.0\ref\F_StreamReader.dll

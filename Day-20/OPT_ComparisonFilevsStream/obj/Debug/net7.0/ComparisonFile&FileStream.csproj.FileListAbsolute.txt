@@ -1,0 +1,15 @@
+c:\C#\Bootcamp\vscode\Day 20\ComparisonFile&FileStream\bin\Debug\net7.0\ComparisonFile&FileStream.exe
+c:\C#\Bootcamp\vscode\Day 20\ComparisonFile&FileStream\bin\Debug\net7.0\ComparisonFile&FileStream.deps.json
+c:\C#\Bootcamp\vscode\Day 20\ComparisonFile&FileStream\bin\Debug\net7.0\ComparisonFile&FileStream.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day 20\ComparisonFile&FileStream\bin\Debug\net7.0\ComparisonFile&FileStream.dll
+c:\C#\Bootcamp\vscode\Day 20\ComparisonFile&FileStream\bin\Debug\net7.0\ComparisonFile&FileStream.pdb
+c:\C#\Bootcamp\vscode\Day 20\ComparisonFile&FileStream\obj\Debug\net7.0\ComparisonFile&FileStream.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day 20\ComparisonFile&FileStream\obj\Debug\net7.0\ComparisonFile&FileStream.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day 20\ComparisonFile&FileStream\obj\Debug\net7.0\ComparisonFile&FileStream.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day 20\ComparisonFile&FileStream\obj\Debug\net7.0\ComparisonFile&FileStream.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day 20\ComparisonFile&FileStream\obj\Debug\net7.0\ComparisonFile&FileStream.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day 20\ComparisonFile&FileStream\obj\Debug\net7.0\ComparisonFile&FileStream.dll
+c:\C#\Bootcamp\vscode\Day 20\ComparisonFile&FileStream\obj\Debug\net7.0\refint\ComparisonFile&FileStream.dll
+c:\C#\Bootcamp\vscode\Day 20\ComparisonFile&FileStream\obj\Debug\net7.0\ComparisonFile&FileStream.pdb
+c:\C#\Bootcamp\vscode\Day 20\ComparisonFile&FileStream\obj\Debug\net7.0\ComparisonFile&FileStream.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day 20\ComparisonFile&FileStream\obj\Debug\net7.0\ref\ComparisonFile&FileStream.dll

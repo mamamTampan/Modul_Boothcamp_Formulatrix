@@ -1,0 +1,15 @@
+c:\Users\Batch 3\Desktop\Day-20\E_StreamWriter\bin\Debug\net7.0\E_StreamWriter.exe
+c:\Users\Batch 3\Desktop\Day-20\E_StreamWriter\bin\Debug\net7.0\E_StreamWriter.deps.json
+c:\Users\Batch 3\Desktop\Day-20\E_StreamWriter\bin\Debug\net7.0\E_StreamWriter.runtimeconfig.json
+c:\Users\Batch 3\Desktop\Day-20\E_StreamWriter\bin\Debug\net7.0\E_StreamWriter.dll
+c:\Users\Batch 3\Desktop\Day-20\E_StreamWriter\bin\Debug\net7.0\E_StreamWriter.pdb
+c:\Users\Batch 3\Desktop\Day-20\E_StreamWriter\obj\Debug\net7.0\E_StreamWriter.csproj.AssemblyReference.cache
+c:\Users\Batch 3\Desktop\Day-20\E_StreamWriter\obj\Debug\net7.0\E_StreamWriter.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Batch 3\Desktop\Day-20\E_StreamWriter\obj\Debug\net7.0\E_StreamWriter.AssemblyInfoInputs.cache
+c:\Users\Batch 3\Desktop\Day-20\E_StreamWriter\obj\Debug\net7.0\E_StreamWriter.AssemblyInfo.cs
+c:\Users\Batch 3\Desktop\Day-20\E_StreamWriter\obj\Debug\net7.0\E_StreamWriter.csproj.CoreCompileInputs.cache
+c:\Users\Batch 3\Desktop\Day-20\E_StreamWriter\obj\Debug\net7.0\E_StreamWriter.dll
+c:\Users\Batch 3\Desktop\Day-20\E_StreamWriter\obj\Debug\net7.0\refint\E_StreamWriter.dll
+c:\Users\Batch 3\Desktop\Day-20\E_StreamWriter\obj\Debug\net7.0\E_StreamWriter.pdb
+c:\Users\Batch 3\Desktop\Day-20\E_StreamWriter\obj\Debug\net7.0\E_StreamWriter.genruntimeconfig.cache
+c:\Users\Batch 3\Desktop\Day-20\E_StreamWriter\obj\Debug\net7.0\ref\E_StreamWriter.dll

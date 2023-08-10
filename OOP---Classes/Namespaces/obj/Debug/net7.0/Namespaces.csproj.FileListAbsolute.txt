@@ -1,0 +1,15 @@
+c:\C#\Bootcamp\vscode\OOP & Classes\Namespaces\obj\Debug\net7.0\Namespaces.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\OOP & Classes\Namespaces\obj\Debug\net7.0\Namespaces.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\OOP & Classes\Namespaces\obj\Debug\net7.0\Namespaces.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\OOP & Classes\Namespaces\obj\Debug\net7.0\Namespaces.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\OOP & Classes\Namespaces\obj\Debug\net7.0\Namespaces.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\OOP & Classes\Namespaces\bin\Debug\net7.0\Namespaces.exe
+c:\C#\Bootcamp\vscode\OOP & Classes\Namespaces\bin\Debug\net7.0\Namespaces.deps.json
+c:\C#\Bootcamp\vscode\OOP & Classes\Namespaces\bin\Debug\net7.0\Namespaces.runtimeconfig.json
+c:\C#\Bootcamp\vscode\OOP & Classes\Namespaces\bin\Debug\net7.0\Namespaces.dll
+c:\C#\Bootcamp\vscode\OOP & Classes\Namespaces\bin\Debug\net7.0\Namespaces.pdb
+c:\C#\Bootcamp\vscode\OOP & Classes\Namespaces\obj\Debug\net7.0\Namespaces.dll
+c:\C#\Bootcamp\vscode\OOP & Classes\Namespaces\obj\Debug\net7.0\refint\Namespaces.dll
+c:\C#\Bootcamp\vscode\OOP & Classes\Namespaces\obj\Debug\net7.0\Namespaces.pdb
+c:\C#\Bootcamp\vscode\OOP & Classes\Namespaces\obj\Debug\net7.0\Namespaces.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\OOP & Classes\Namespaces\obj\Debug\net7.0\ref\Namespaces.dll

@@ -1,0 +1,15 @@
+c:\C#\Bootcamp\vscode\Day 8\EnumFor\obj\Debug\net7.0\EnumFor.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day 8\EnumFor\obj\Debug\net7.0\EnumFor.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day 8\EnumFor\obj\Debug\net7.0\EnumFor.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day 8\EnumFor\obj\Debug\net7.0\EnumFor.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day 8\EnumFor\bin\Debug\net7.0\EnumFor.exe
+c:\C#\Bootcamp\vscode\Day 8\EnumFor\bin\Debug\net7.0\EnumFor.deps.json
+c:\C#\Bootcamp\vscode\Day 8\EnumFor\bin\Debug\net7.0\EnumFor.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day 8\EnumFor\bin\Debug\net7.0\EnumFor.dll
+c:\C#\Bootcamp\vscode\Day 8\EnumFor\bin\Debug\net7.0\EnumFor.pdb
+c:\C#\Bootcamp\vscode\Day 8\EnumFor\obj\Debug\net7.0\EnumFor.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day 8\EnumFor\obj\Debug\net7.0\EnumFor.dll
+c:\C#\Bootcamp\vscode\Day 8\EnumFor\obj\Debug\net7.0\refint\EnumFor.dll
+c:\C#\Bootcamp\vscode\Day 8\EnumFor\obj\Debug\net7.0\EnumFor.pdb
+c:\C#\Bootcamp\vscode\Day 8\EnumFor\obj\Debug\net7.0\EnumFor.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day 8\EnumFor\obj\Debug\net7.0\ref\EnumFor.dll

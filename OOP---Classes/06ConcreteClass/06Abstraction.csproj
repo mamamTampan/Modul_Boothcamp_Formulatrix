@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net7.0</TargetFramework>
+        <RootNamespace>_06ConcreteClass</RootNamespace>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+    <ItemGroup>
+        <Content Include="Program.cs"/>
+        <Content Include="obj\06ConcreteClass.csproj.nuget.dgspec.json"/>
+        <Content Include="obj\06ConcreteClass.csproj.nuget.g.props"/>
+        <Content Include="obj\project.nuget.cache"/>
+        <Content Include="obj\project.assets.json"/>
+        <Content Include="obj\06ConcreteClass.csproj.nuget.g.targets"/>
+        <Content Include="obj\Debug\net7.0\06ConcreteClass.AssemblyInfo.cs"/>
+        <Content Include="obj\Debug\net7.0\06ConcreteClass.assets.cache"/>
+        <Content Include="obj\Debug\net7.0\06ConcreteClass.AssemblyInfoInputs.cache"/>
+        <Content Include="obj\Debug\net7.0\.NETCoreApp,Version=v7.0.AssemblyAttributes.cs"/>
+        <Content Include="obj\Debug\net7.0\06ConcreteClass.GlobalUsings.g.cs"/>
+        <Content Include="obj\Debug\net7.0\06ConcreteClass.GeneratedMSBuildEditorConfig.editorconfig"/>
+        <Content Include="obj\Debug\net7.0\06ConcreteClass.csproj.AssemblyReference.cache"/>
+    </ItemGroup>
+</Project>

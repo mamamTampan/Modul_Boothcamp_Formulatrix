@@ -1,0 +1,15 @@
+c:\C#\Bootcamp\vscode\Day 12\MemoryLeak\bin\Debug\net7.0\MemoryLeak.exe
+c:\C#\Bootcamp\vscode\Day 12\MemoryLeak\bin\Debug\net7.0\MemoryLeak.deps.json
+c:\C#\Bootcamp\vscode\Day 12\MemoryLeak\bin\Debug\net7.0\MemoryLeak.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day 12\MemoryLeak\bin\Debug\net7.0\MemoryLeak.dll
+c:\C#\Bootcamp\vscode\Day 12\MemoryLeak\bin\Debug\net7.0\MemoryLeak.pdb
+c:\C#\Bootcamp\vscode\Day 12\MemoryLeak\obj\Debug\net7.0\MemoryLeak.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day 12\MemoryLeak\obj\Debug\net7.0\MemoryLeak.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day 12\MemoryLeak\obj\Debug\net7.0\MemoryLeak.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day 12\MemoryLeak\obj\Debug\net7.0\MemoryLeak.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day 12\MemoryLeak\obj\Debug\net7.0\MemoryLeak.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day 12\MemoryLeak\obj\Debug\net7.0\MemoryLeak.dll
+c:\C#\Bootcamp\vscode\Day 12\MemoryLeak\obj\Debug\net7.0\refint\MemoryLeak.dll
+c:\C#\Bootcamp\vscode\Day 12\MemoryLeak\obj\Debug\net7.0\MemoryLeak.pdb
+c:\C#\Bootcamp\vscode\Day 12\MemoryLeak\obj\Debug\net7.0\MemoryLeak.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day 12\MemoryLeak\obj\Debug\net7.0\ref\MemoryLeak.dll

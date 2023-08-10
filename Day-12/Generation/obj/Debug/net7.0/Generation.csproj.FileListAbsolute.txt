@@ -1,0 +1,15 @@
+c:\C#\Bootcamp\vscode\Day 12\Generation\bin\Debug\net7.0\Generation.exe
+c:\C#\Bootcamp\vscode\Day 12\Generation\bin\Debug\net7.0\Generation.deps.json
+c:\C#\Bootcamp\vscode\Day 12\Generation\bin\Debug\net7.0\Generation.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day 12\Generation\bin\Debug\net7.0\Generation.dll
+c:\C#\Bootcamp\vscode\Day 12\Generation\bin\Debug\net7.0\Generation.pdb
+c:\C#\Bootcamp\vscode\Day 12\Generation\obj\Debug\net7.0\Generation.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day 12\Generation\obj\Debug\net7.0\Generation.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day 12\Generation\obj\Debug\net7.0\Generation.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day 12\Generation\obj\Debug\net7.0\Generation.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day 12\Generation\obj\Debug\net7.0\Generation.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day 12\Generation\obj\Debug\net7.0\Generation.dll
+c:\C#\Bootcamp\vscode\Day 12\Generation\obj\Debug\net7.0\refint\Generation.dll
+c:\C#\Bootcamp\vscode\Day 12\Generation\obj\Debug\net7.0\Generation.pdb
+c:\C#\Bootcamp\vscode\Day 12\Generation\obj\Debug\net7.0\Generation.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day 12\Generation\obj\Debug\net7.0\ref\Generation.dll

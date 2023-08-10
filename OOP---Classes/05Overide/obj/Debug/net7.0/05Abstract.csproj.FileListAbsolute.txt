@@ -1,0 +1,15 @@
+c:\C#\Bootcamp\vscode\OOP & Classes\05Abstract\bin\Debug\net7.0\05Abstract.exe
+c:\C#\Bootcamp\vscode\OOP & Classes\05Abstract\bin\Debug\net7.0\05Abstract.deps.json
+c:\C#\Bootcamp\vscode\OOP & Classes\05Abstract\bin\Debug\net7.0\05Abstract.runtimeconfig.json
+c:\C#\Bootcamp\vscode\OOP & Classes\05Abstract\bin\Debug\net7.0\05Abstract.dll
+c:\C#\Bootcamp\vscode\OOP & Classes\05Abstract\bin\Debug\net7.0\05Abstract.pdb
+c:\C#\Bootcamp\vscode\OOP & Classes\05Abstract\obj\Debug\net7.0\05Abstract.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\OOP & Classes\05Abstract\obj\Debug\net7.0\05Abstract.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\OOP & Classes\05Abstract\obj\Debug\net7.0\05Abstract.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\OOP & Classes\05Abstract\obj\Debug\net7.0\05Abstract.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\OOP & Classes\05Abstract\obj\Debug\net7.0\05Abstract.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\OOP & Classes\05Abstract\obj\Debug\net7.0\05Abstract.dll
+c:\C#\Bootcamp\vscode\OOP & Classes\05Abstract\obj\Debug\net7.0\refint\05Abstract.dll
+c:\C#\Bootcamp\vscode\OOP & Classes\05Abstract\obj\Debug\net7.0\05Abstract.pdb
+c:\C#\Bootcamp\vscode\OOP & Classes\05Abstract\obj\Debug\net7.0\05Abstract.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\OOP & Classes\05Abstract\obj\Debug\net7.0\ref\05Abstract.dll

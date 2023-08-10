@@ -1,0 +1,15 @@
+c:\C#\Bootcamp\vscode\Day 8\Enum2\bin\Debug\net7.0\Enum2.exe
+c:\C#\Bootcamp\vscode\Day 8\Enum2\bin\Debug\net7.0\Enum2.deps.json
+c:\C#\Bootcamp\vscode\Day 8\Enum2\bin\Debug\net7.0\Enum2.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day 8\Enum2\bin\Debug\net7.0\Enum2.dll
+c:\C#\Bootcamp\vscode\Day 8\Enum2\bin\Debug\net7.0\Enum2.pdb
+c:\C#\Bootcamp\vscode\Day 8\Enum2\obj\Debug\net7.0\Enum2.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day 8\Enum2\obj\Debug\net7.0\Enum2.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day 8\Enum2\obj\Debug\net7.0\Enum2.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day 8\Enum2\obj\Debug\net7.0\Enum2.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day 8\Enum2\obj\Debug\net7.0\Enum2.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day 8\Enum2\obj\Debug\net7.0\Enum2.dll
+c:\C#\Bootcamp\vscode\Day 8\Enum2\obj\Debug\net7.0\refint\Enum2.dll
+c:\C#\Bootcamp\vscode\Day 8\Enum2\obj\Debug\net7.0\Enum2.pdb
+c:\C#\Bootcamp\vscode\Day 8\Enum2\obj\Debug\net7.0\Enum2.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day 8\Enum2\obj\Debug\net7.0\ref\Enum2.dll

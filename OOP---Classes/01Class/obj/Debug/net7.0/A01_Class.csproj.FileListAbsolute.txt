@@ -1,0 +1,15 @@
+c:\C#\Bootcamp\vscode\OOP & Classes\01Class\bin\Debug\net7.0\A01_Class.exe
+c:\C#\Bootcamp\vscode\OOP & Classes\01Class\bin\Debug\net7.0\A01_Class.deps.json
+c:\C#\Bootcamp\vscode\OOP & Classes\01Class\bin\Debug\net7.0\A01_Class.runtimeconfig.json
+c:\C#\Bootcamp\vscode\OOP & Classes\01Class\bin\Debug\net7.0\A01_Class.dll
+c:\C#\Bootcamp\vscode\OOP & Classes\01Class\bin\Debug\net7.0\A01_Class.pdb
+c:\C#\Bootcamp\vscode\OOP & Classes\01Class\obj\Debug\net7.0\A01_Class.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\OOP & Classes\01Class\obj\Debug\net7.0\A01_Class.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\OOP & Classes\01Class\obj\Debug\net7.0\A01_Class.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\OOP & Classes\01Class\obj\Debug\net7.0\A01_Class.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\OOP & Classes\01Class\obj\Debug\net7.0\A01_Class.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\OOP & Classes\01Class\obj\Debug\net7.0\A01_Class.dll
+c:\C#\Bootcamp\vscode\OOP & Classes\01Class\obj\Debug\net7.0\refint\A01_Class.dll
+c:\C#\Bootcamp\vscode\OOP & Classes\01Class\obj\Debug\net7.0\A01_Class.pdb
+c:\C#\Bootcamp\vscode\OOP & Classes\01Class\obj\Debug\net7.0\A01_Class.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\OOP & Classes\01Class\obj\Debug\net7.0\ref\A01_Class.dll

@@ -1,0 +1,15 @@
+c:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 4\00UpcastDowncast\bin\Debug\net7.0\UpcastDowncat.exe
+c:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 4\00UpcastDowncast\bin\Debug\net7.0\UpcastDowncat.deps.json
+c:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 4\00UpcastDowncast\bin\Debug\net7.0\UpcastDowncat.runtimeconfig.json
+c:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 4\00UpcastDowncast\bin\Debug\net7.0\UpcastDowncat.dll
+c:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 4\00UpcastDowncast\bin\Debug\net7.0\UpcastDowncat.pdb
+c:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 4\00UpcastDowncast\obj\Debug\net7.0\UpcastDowncat.csproj.AssemblyReference.cache
+c:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 4\00UpcastDowncast\obj\Debug\net7.0\UpcastDowncat.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 4\00UpcastDowncast\obj\Debug\net7.0\UpcastDowncat.AssemblyInfoInputs.cache
+c:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 4\00UpcastDowncast\obj\Debug\net7.0\UpcastDowncat.AssemblyInfo.cs
+c:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 4\00UpcastDowncast\obj\Debug\net7.0\UpcastDowncat.csproj.CoreCompileInputs.cache
+c:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 4\00UpcastDowncast\obj\Debug\net7.0\UpcastDowncat.dll
+c:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 4\00UpcastDowncast\obj\Debug\net7.0\refint\UpcastDowncat.dll
+c:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 4\00UpcastDowncast\obj\Debug\net7.0\UpcastDowncat.pdb
+c:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 4\00UpcastDowncast\obj\Debug\net7.0\UpcastDowncat.genruntimeconfig.cache
+c:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 4\00UpcastDowncast\obj\Debug\net7.0\ref\UpcastDowncat.dll

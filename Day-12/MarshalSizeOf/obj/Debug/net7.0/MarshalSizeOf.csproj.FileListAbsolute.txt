@@ -1,0 +1,15 @@
+c:\C#\Bootcamp\vscode\Day 12\MarshalSizeOf\bin\Debug\net7.0\MarshalSizeOf.exe
+c:\C#\Bootcamp\vscode\Day 12\MarshalSizeOf\bin\Debug\net7.0\MarshalSizeOf.deps.json
+c:\C#\Bootcamp\vscode\Day 12\MarshalSizeOf\bin\Debug\net7.0\MarshalSizeOf.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day 12\MarshalSizeOf\bin\Debug\net7.0\MarshalSizeOf.dll
+c:\C#\Bootcamp\vscode\Day 12\MarshalSizeOf\bin\Debug\net7.0\MarshalSizeOf.pdb
+c:\C#\Bootcamp\vscode\Day 12\MarshalSizeOf\obj\Debug\net7.0\MarshalSizeOf.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day 12\MarshalSizeOf\obj\Debug\net7.0\MarshalSizeOf.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day 12\MarshalSizeOf\obj\Debug\net7.0\MarshalSizeOf.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day 12\MarshalSizeOf\obj\Debug\net7.0\MarshalSizeOf.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day 12\MarshalSizeOf\obj\Debug\net7.0\MarshalSizeOf.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day 12\MarshalSizeOf\obj\Debug\net7.0\MarshalSizeOf.dll
+c:\C#\Bootcamp\vscode\Day 12\MarshalSizeOf\obj\Debug\net7.0\refint\MarshalSizeOf.dll
+c:\C#\Bootcamp\vscode\Day 12\MarshalSizeOf\obj\Debug\net7.0\MarshalSizeOf.pdb
+c:\C#\Bootcamp\vscode\Day 12\MarshalSizeOf\obj\Debug\net7.0\MarshalSizeOf.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day 12\MarshalSizeOf\obj\Debug\net7.0\ref\MarshalSizeOf.dll

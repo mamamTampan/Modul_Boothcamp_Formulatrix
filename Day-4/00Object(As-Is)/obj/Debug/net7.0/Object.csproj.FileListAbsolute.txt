@@ -1,0 +1,15 @@
+c:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 4\00Object(As-Is)\bin\Debug\net7.0\Object.exe
+c:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 4\00Object(As-Is)\bin\Debug\net7.0\Object.deps.json
+c:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 4\00Object(As-Is)\bin\Debug\net7.0\Object.runtimeconfig.json
+c:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 4\00Object(As-Is)\bin\Debug\net7.0\Object.dll
+c:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 4\00Object(As-Is)\bin\Debug\net7.0\Object.pdb
+c:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 4\00Object(As-Is)\obj\Debug\net7.0\Object.csproj.AssemblyReference.cache
+c:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 4\00Object(As-Is)\obj\Debug\net7.0\Object.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 4\00Object(As-Is)\obj\Debug\net7.0\Object.AssemblyInfoInputs.cache
+c:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 4\00Object(As-Is)\obj\Debug\net7.0\Object.AssemblyInfo.cs
+c:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 4\00Object(As-Is)\obj\Debug\net7.0\Object.csproj.CoreCompileInputs.cache
+c:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 4\00Object(As-Is)\obj\Debug\net7.0\Object.dll
+c:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 4\00Object(As-Is)\obj\Debug\net7.0\refint\Object.dll
+c:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 4\00Object(As-Is)\obj\Debug\net7.0\Object.pdb
+c:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 4\00Object(As-Is)\obj\Debug\net7.0\Object.genruntimeconfig.cache
+c:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 4\00Object(As-Is)\obj\Debug\net7.0\ref\Object.dll

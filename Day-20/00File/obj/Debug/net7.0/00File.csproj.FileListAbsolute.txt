@@ -1,0 +1,15 @@
+c:\C#\Bootcamp\vscode\Day 20\00File\bin\Debug\net7.0\00File.exe
+c:\C#\Bootcamp\vscode\Day 20\00File\bin\Debug\net7.0\00File.deps.json
+c:\C#\Bootcamp\vscode\Day 20\00File\bin\Debug\net7.0\00File.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day 20\00File\bin\Debug\net7.0\00File.dll
+c:\C#\Bootcamp\vscode\Day 20\00File\bin\Debug\net7.0\00File.pdb
+c:\C#\Bootcamp\vscode\Day 20\00File\obj\Debug\net7.0\00File.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day 20\00File\obj\Debug\net7.0\00File.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day 20\00File\obj\Debug\net7.0\00File.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day 20\00File\obj\Debug\net7.0\00File.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day 20\00File\obj\Debug\net7.0\00File.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day 20\00File\obj\Debug\net7.0\00File.dll
+c:\C#\Bootcamp\vscode\Day 20\00File\obj\Debug\net7.0\refint\00File.dll
+c:\C#\Bootcamp\vscode\Day 20\00File\obj\Debug\net7.0\00File.pdb
+c:\C#\Bootcamp\vscode\Day 20\00File\obj\Debug\net7.0\00File.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day 20\00File\obj\Debug\net7.0\ref\00File.dll

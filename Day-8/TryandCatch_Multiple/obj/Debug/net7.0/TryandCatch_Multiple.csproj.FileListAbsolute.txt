@@ -1,0 +1,15 @@
+c:\C#\Bootcamp\vscode\Day 8\TryandCatch_Multiple\bin\Debug\net7.0\TryandCatch_Multiple.exe
+c:\C#\Bootcamp\vscode\Day 8\TryandCatch_Multiple\bin\Debug\net7.0\TryandCatch_Multiple.deps.json
+c:\C#\Bootcamp\vscode\Day 8\TryandCatch_Multiple\bin\Debug\net7.0\TryandCatch_Multiple.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day 8\TryandCatch_Multiple\bin\Debug\net7.0\TryandCatch_Multiple.dll
+c:\C#\Bootcamp\vscode\Day 8\TryandCatch_Multiple\bin\Debug\net7.0\TryandCatch_Multiple.pdb
+c:\C#\Bootcamp\vscode\Day 8\TryandCatch_Multiple\obj\Debug\net7.0\TryandCatch_Multiple.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day 8\TryandCatch_Multiple\obj\Debug\net7.0\TryandCatch_Multiple.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day 8\TryandCatch_Multiple\obj\Debug\net7.0\TryandCatch_Multiple.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day 8\TryandCatch_Multiple\obj\Debug\net7.0\TryandCatch_Multiple.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day 8\TryandCatch_Multiple\obj\Debug\net7.0\TryandCatch_Multiple.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day 8\TryandCatch_Multiple\obj\Debug\net7.0\TryandCatch_Multiple.dll
+c:\C#\Bootcamp\vscode\Day 8\TryandCatch_Multiple\obj\Debug\net7.0\refint\TryandCatch_Multiple.dll
+c:\C#\Bootcamp\vscode\Day 8\TryandCatch_Multiple\obj\Debug\net7.0\TryandCatch_Multiple.pdb
+c:\C#\Bootcamp\vscode\Day 8\TryandCatch_Multiple\obj\Debug\net7.0\TryandCatch_Multiple.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day 8\TryandCatch_Multiple\obj\Debug\net7.0\ref\TryandCatch_Multiple.dll

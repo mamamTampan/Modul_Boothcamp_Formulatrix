@@ -1,0 +1,15 @@
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 5\Delegate\obj\Debug\net7.0\Delegate.csproj.AssemblyReference.cache
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 5\Delegate\obj\Debug\net7.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 5\Delegate\obj\Debug\net7.0\Delegate.AssemblyInfoInputs.cache
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 5\Delegate\obj\Debug\net7.0\Delegate.AssemblyInfo.cs
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 5\Delegate\obj\Debug\net7.0\Delegate.csproj.CoreCompileInputs.cache
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 5\Delegate\bin\Debug\net7.0\Delegate.exe
+c:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 5\Delegate\bin\Debug\net7.0\Delegate.deps.json
+c:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 5\Delegate\bin\Debug\net7.0\Delegate.runtimeconfig.json
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 5\Delegate\bin\Debug\net7.0\Delegate.dll
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 5\Delegate\bin\Debug\net7.0\Delegate.pdb
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 5\Delegate\obj\Debug\net7.0\Delegate.dll
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 5\Delegate\obj\Debug\net7.0\refint\Delegate.dll
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 5\Delegate\obj\Debug\net7.0\Delegate.pdb
+c:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 5\Delegate\obj\Debug\net7.0\Delegate.genruntimeconfig.cache
+c:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 5\Delegate\obj\Debug\net7.0\ref\Delegate.dll

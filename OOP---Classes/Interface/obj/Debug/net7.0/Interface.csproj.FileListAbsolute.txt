@@ -1,0 +1,15 @@
+c:\C#\Bootcamp\vscode\OOP & Classes\Interface\obj\Debug\net7.0\Interface.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\OOP & Classes\Interface\obj\Debug\net7.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\OOP & Classes\Interface\obj\Debug\net7.0\Interface.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\OOP & Classes\Interface\obj\Debug\net7.0\Interface.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\OOP & Classes\Interface\obj\Debug\net7.0\Interface.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\OOP & Classes\Interface\bin\Debug\net7.0\Interface.exe
+c:\C#\Bootcamp\vscode\OOP & Classes\Interface\bin\Debug\net7.0\Interface.deps.json
+c:\C#\Bootcamp\vscode\OOP & Classes\Interface\bin\Debug\net7.0\Interface.runtimeconfig.json
+c:\C#\Bootcamp\vscode\OOP & Classes\Interface\bin\Debug\net7.0\Interface.dll
+c:\C#\Bootcamp\vscode\OOP & Classes\Interface\bin\Debug\net7.0\Interface.pdb
+c:\C#\Bootcamp\vscode\OOP & Classes\Interface\obj\Debug\net7.0\Interface.dll
+c:\C#\Bootcamp\vscode\OOP & Classes\Interface\obj\Debug\net7.0\refint\Interface.dll
+c:\C#\Bootcamp\vscode\OOP & Classes\Interface\obj\Debug\net7.0\Interface.pdb
+c:\C#\Bootcamp\vscode\OOP & Classes\Interface\obj\Debug\net7.0\Interface.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\OOP & Classes\Interface\obj\Debug\net7.0\ref\Interface.dll

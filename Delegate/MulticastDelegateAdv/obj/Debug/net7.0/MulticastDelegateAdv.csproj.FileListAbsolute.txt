@@ -1,0 +1,15 @@
+C:\C#\Bootcamp\vscode\Day 5\MulticastDelegateAdv\bin\Debug\net7.0\MulticastDelegateAdv.exe
+C:\C#\Bootcamp\vscode\Day 5\MulticastDelegateAdv\bin\Debug\net7.0\MulticastDelegateAdv.deps.json
+C:\C#\Bootcamp\vscode\Day 5\MulticastDelegateAdv\bin\Debug\net7.0\MulticastDelegateAdv.runtimeconfig.json
+C:\C#\Bootcamp\vscode\Day 5\MulticastDelegateAdv\bin\Debug\net7.0\MulticastDelegateAdv.dll
+C:\C#\Bootcamp\vscode\Day 5\MulticastDelegateAdv\bin\Debug\net7.0\MulticastDelegateAdv.pdb
+C:\C#\Bootcamp\vscode\Day 5\MulticastDelegateAdv\obj\Debug\net7.0\MulticastDelegateAdv.csproj.AssemblyReference.cache
+C:\C#\Bootcamp\vscode\Day 5\MulticastDelegateAdv\obj\Debug\net7.0\MulticastDelegateAdv.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Bootcamp\vscode\Day 5\MulticastDelegateAdv\obj\Debug\net7.0\MulticastDelegateAdv.AssemblyInfoInputs.cache
+C:\C#\Bootcamp\vscode\Day 5\MulticastDelegateAdv\obj\Debug\net7.0\MulticastDelegateAdv.AssemblyInfo.cs
+C:\C#\Bootcamp\vscode\Day 5\MulticastDelegateAdv\obj\Debug\net7.0\MulticastDelegateAdv.csproj.CoreCompileInputs.cache
+C:\C#\Bootcamp\vscode\Day 5\MulticastDelegateAdv\obj\Debug\net7.0\MulticastDelegateAdv.dll
+C:\C#\Bootcamp\vscode\Day 5\MulticastDelegateAdv\obj\Debug\net7.0\refint\MulticastDelegateAdv.dll
+C:\C#\Bootcamp\vscode\Day 5\MulticastDelegateAdv\obj\Debug\net7.0\MulticastDelegateAdv.pdb
+C:\C#\Bootcamp\vscode\Day 5\MulticastDelegateAdv\obj\Debug\net7.0\MulticastDelegateAdv.genruntimeconfig.cache
+C:\C#\Bootcamp\vscode\Day 5\MulticastDelegateAdv\obj\Debug\net7.0\ref\MulticastDelegateAdv.dll

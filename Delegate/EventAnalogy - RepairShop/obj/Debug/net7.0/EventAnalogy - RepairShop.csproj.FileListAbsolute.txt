@@ -1,0 +1,15 @@
+c:\C#\Bootcamp\vscode\Day 5\EventAnalogy - RepairShop\obj\Debug\net7.0\EventAnalogy - RepairShop.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day 5\EventAnalogy - RepairShop\obj\Debug\net7.0\EventAnalogy - RepairShop.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day 5\EventAnalogy - RepairShop\obj\Debug\net7.0\EventAnalogy - RepairShop.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day 5\EventAnalogy - RepairShop\obj\Debug\net7.0\EventAnalogy - RepairShop.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day 5\EventAnalogy - RepairShop\obj\Debug\net7.0\EventAnalogy - RepairShop.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day 5\EventAnalogy - RepairShop\bin\Debug\net7.0\EventAnalogy - RepairShop.exe
+c:\C#\Bootcamp\vscode\Day 5\EventAnalogy - RepairShop\bin\Debug\net7.0\EventAnalogy - RepairShop.deps.json
+c:\C#\Bootcamp\vscode\Day 5\EventAnalogy - RepairShop\bin\Debug\net7.0\EventAnalogy - RepairShop.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day 5\EventAnalogy - RepairShop\bin\Debug\net7.0\EventAnalogy - RepairShop.dll
+c:\C#\Bootcamp\vscode\Day 5\EventAnalogy - RepairShop\bin\Debug\net7.0\EventAnalogy - RepairShop.pdb
+c:\C#\Bootcamp\vscode\Day 5\EventAnalogy - RepairShop\obj\Debug\net7.0\EventAnalogy - RepairShop.dll
+c:\C#\Bootcamp\vscode\Day 5\EventAnalogy - RepairShop\obj\Debug\net7.0\refint\EventAnalogy - RepairShop.dll
+c:\C#\Bootcamp\vscode\Day 5\EventAnalogy - RepairShop\obj\Debug\net7.0\EventAnalogy - RepairShop.pdb
+c:\C#\Bootcamp\vscode\Day 5\EventAnalogy - RepairShop\obj\Debug\net7.0\EventAnalogy - RepairShop.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day 5\EventAnalogy - RepairShop\obj\Debug\net7.0\ref\EventAnalogy - RepairShop.dll

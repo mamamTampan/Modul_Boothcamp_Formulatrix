@@ -1,0 +1,15 @@
+c:\C#\Bootcamp\vscode\Day 24\ExtensionMethod\obj\Debug\net7.0\ExtensionMethod.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day 24\ExtensionMethod\obj\Debug\net7.0\ExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day 24\ExtensionMethod\obj\Debug\net7.0\ExtensionMethod.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day 24\ExtensionMethod\obj\Debug\net7.0\ExtensionMethod.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day 24\ExtensionMethod\obj\Debug\net7.0\ExtensionMethod.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day 24\ExtensionMethod\bin\Debug\net7.0\ExtensionMethod.exe
+c:\C#\Bootcamp\vscode\Day 24\ExtensionMethod\bin\Debug\net7.0\ExtensionMethod.deps.json
+c:\C#\Bootcamp\vscode\Day 24\ExtensionMethod\bin\Debug\net7.0\ExtensionMethod.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day 24\ExtensionMethod\bin\Debug\net7.0\ExtensionMethod.dll
+c:\C#\Bootcamp\vscode\Day 24\ExtensionMethod\bin\Debug\net7.0\ExtensionMethod.pdb
+c:\C#\Bootcamp\vscode\Day 24\ExtensionMethod\obj\Debug\net7.0\ExtensionMethod.dll
+c:\C#\Bootcamp\vscode\Day 24\ExtensionMethod\obj\Debug\net7.0\refint\ExtensionMethod.dll
+c:\C#\Bootcamp\vscode\Day 24\ExtensionMethod\obj\Debug\net7.0\ExtensionMethod.pdb
+c:\C#\Bootcamp\vscode\Day 24\ExtensionMethod\obj\Debug\net7.0\ExtensionMethod.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day 24\ExtensionMethod\obj\Debug\net7.0\ref\ExtensionMethod.dll

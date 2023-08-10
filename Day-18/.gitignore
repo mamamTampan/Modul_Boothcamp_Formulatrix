@@ -1,0 +1,26 @@
+# START_CODE
+# Folder bin dan obj
+/bin/
+/obj/
+
+# File build hasil kompilasi
+/*.exe
+/*.dll
+/*.pdb
+
+# File NuGet packages
+/packages/
+
+# File user options
+*.user
+
+# File debug log
+*.log
+
+# Temporary files
+**/Thumbs.db
+**/Desktop.ini
+
+# Visual Studio Code
+.vscode/
+# 

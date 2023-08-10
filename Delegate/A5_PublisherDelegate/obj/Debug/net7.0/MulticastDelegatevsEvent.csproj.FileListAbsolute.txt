@@ -1,0 +1,15 @@
+C:\C#\Bootcamp\vscode\Day 5\MulticastDelegatevsEvent\bin\Debug\net7.0\MulticastDelegatevsEvent.exe
+C:\C#\Bootcamp\vscode\Day 5\MulticastDelegatevsEvent\bin\Debug\net7.0\MulticastDelegatevsEvent.deps.json
+C:\C#\Bootcamp\vscode\Day 5\MulticastDelegatevsEvent\bin\Debug\net7.0\MulticastDelegatevsEvent.runtimeconfig.json
+C:\C#\Bootcamp\vscode\Day 5\MulticastDelegatevsEvent\bin\Debug\net7.0\MulticastDelegatevsEvent.dll
+C:\C#\Bootcamp\vscode\Day 5\MulticastDelegatevsEvent\bin\Debug\net7.0\MulticastDelegatevsEvent.pdb
+C:\C#\Bootcamp\vscode\Day 5\MulticastDelegatevsEvent\obj\Debug\net7.0\MulticastDelegatevsEvent.csproj.AssemblyReference.cache
+C:\C#\Bootcamp\vscode\Day 5\MulticastDelegatevsEvent\obj\Debug\net7.0\MulticastDelegatevsEvent.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Bootcamp\vscode\Day 5\MulticastDelegatevsEvent\obj\Debug\net7.0\MulticastDelegatevsEvent.AssemblyInfoInputs.cache
+C:\C#\Bootcamp\vscode\Day 5\MulticastDelegatevsEvent\obj\Debug\net7.0\MulticastDelegatevsEvent.AssemblyInfo.cs
+C:\C#\Bootcamp\vscode\Day 5\MulticastDelegatevsEvent\obj\Debug\net7.0\MulticastDelegatevsEvent.csproj.CoreCompileInputs.cache
+C:\C#\Bootcamp\vscode\Day 5\MulticastDelegatevsEvent\obj\Debug\net7.0\MulticastDelegatevsEvent.dll
+C:\C#\Bootcamp\vscode\Day 5\MulticastDelegatevsEvent\obj\Debug\net7.0\refint\MulticastDelegatevsEvent.dll
+C:\C#\Bootcamp\vscode\Day 5\MulticastDelegatevsEvent\obj\Debug\net7.0\MulticastDelegatevsEvent.pdb
+C:\C#\Bootcamp\vscode\Day 5\MulticastDelegatevsEvent\obj\Debug\net7.0\MulticastDelegatevsEvent.genruntimeconfig.cache
+C:\C#\Bootcamp\vscode\Day 5\MulticastDelegatevsEvent\obj\Debug\net7.0\ref\MulticastDelegatevsEvent.dll

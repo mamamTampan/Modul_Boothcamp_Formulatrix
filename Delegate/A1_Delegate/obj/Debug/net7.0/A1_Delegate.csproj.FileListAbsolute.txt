@@ -1,0 +1,15 @@
+C:\C#\Bootcamp\vscode\Day 5\A1_Delegate\bin\Debug\net7.0\A1_Delegate.exe
+C:\C#\Bootcamp\vscode\Day 5\A1_Delegate\bin\Debug\net7.0\A1_Delegate.deps.json
+C:\C#\Bootcamp\vscode\Day 5\A1_Delegate\bin\Debug\net7.0\A1_Delegate.runtimeconfig.json
+C:\C#\Bootcamp\vscode\Day 5\A1_Delegate\bin\Debug\net7.0\A1_Delegate.dll
+C:\C#\Bootcamp\vscode\Day 5\A1_Delegate\bin\Debug\net7.0\A1_Delegate.pdb
+C:\C#\Bootcamp\vscode\Day 5\A1_Delegate\obj\Debug\net7.0\A1_Delegate.csproj.AssemblyReference.cache
+C:\C#\Bootcamp\vscode\Day 5\A1_Delegate\obj\Debug\net7.0\A1_Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Bootcamp\vscode\Day 5\A1_Delegate\obj\Debug\net7.0\A1_Delegate.AssemblyInfoInputs.cache
+C:\C#\Bootcamp\vscode\Day 5\A1_Delegate\obj\Debug\net7.0\A1_Delegate.AssemblyInfo.cs
+C:\C#\Bootcamp\vscode\Day 5\A1_Delegate\obj\Debug\net7.0\A1_Delegate.csproj.CoreCompileInputs.cache
+C:\C#\Bootcamp\vscode\Day 5\A1_Delegate\obj\Debug\net7.0\A1_Delegate.dll
+C:\C#\Bootcamp\vscode\Day 5\A1_Delegate\obj\Debug\net7.0\refint\A1_Delegate.dll
+C:\C#\Bootcamp\vscode\Day 5\A1_Delegate\obj\Debug\net7.0\A1_Delegate.pdb
+C:\C#\Bootcamp\vscode\Day 5\A1_Delegate\obj\Debug\net7.0\A1_Delegate.genruntimeconfig.cache
+C:\C#\Bootcamp\vscode\Day 5\A1_Delegate\obj\Debug\net7.0\ref\A1_Delegate.dll

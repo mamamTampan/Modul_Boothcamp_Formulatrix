@@ -1,0 +1,15 @@
+c:\C#\Bootcamp\vscode\Day 8\Enumerator\bin\Debug\net7.0\Enumerator.exe
+c:\C#\Bootcamp\vscode\Day 8\Enumerator\bin\Debug\net7.0\Enumerator.deps.json
+c:\C#\Bootcamp\vscode\Day 8\Enumerator\bin\Debug\net7.0\Enumerator.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day 8\Enumerator\bin\Debug\net7.0\Enumerator.dll
+c:\C#\Bootcamp\vscode\Day 8\Enumerator\bin\Debug\net7.0\Enumerator.pdb
+c:\C#\Bootcamp\vscode\Day 8\Enumerator\obj\Debug\net7.0\Enumerator.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day 8\Enumerator\obj\Debug\net7.0\Enumerator.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day 8\Enumerator\obj\Debug\net7.0\Enumerator.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day 8\Enumerator\obj\Debug\net7.0\Enumerator.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day 8\Enumerator\obj\Debug\net7.0\Enumerator.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day 8\Enumerator\obj\Debug\net7.0\Enumerator.dll
+c:\C#\Bootcamp\vscode\Day 8\Enumerator\obj\Debug\net7.0\refint\Enumerator.dll
+c:\C#\Bootcamp\vscode\Day 8\Enumerator\obj\Debug\net7.0\Enumerator.pdb
+c:\C#\Bootcamp\vscode\Day 8\Enumerator\obj\Debug\net7.0\Enumerator.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day 8\Enumerator\obj\Debug\net7.0\ref\Enumerator.dll

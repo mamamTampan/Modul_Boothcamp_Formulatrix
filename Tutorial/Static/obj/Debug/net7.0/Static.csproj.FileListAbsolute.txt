@@ -1,0 +1,15 @@
+c:\C#\Tutorial\Static\bin\Debug\net7.0\Static.exe
+c:\C#\Tutorial\Static\bin\Debug\net7.0\Static.deps.json
+c:\C#\Tutorial\Static\bin\Debug\net7.0\Static.runtimeconfig.json
+c:\C#\Tutorial\Static\bin\Debug\net7.0\Static.dll
+c:\C#\Tutorial\Static\bin\Debug\net7.0\Static.pdb
+c:\C#\Tutorial\Static\obj\Debug\net7.0\Static.csproj.AssemblyReference.cache
+c:\C#\Tutorial\Static\obj\Debug\net7.0\Static.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Tutorial\Static\obj\Debug\net7.0\Static.AssemblyInfoInputs.cache
+c:\C#\Tutorial\Static\obj\Debug\net7.0\Static.AssemblyInfo.cs
+c:\C#\Tutorial\Static\obj\Debug\net7.0\Static.csproj.CoreCompileInputs.cache
+c:\C#\Tutorial\Static\obj\Debug\net7.0\Static.dll
+c:\C#\Tutorial\Static\obj\Debug\net7.0\refint\Static.dll
+c:\C#\Tutorial\Static\obj\Debug\net7.0\Static.pdb
+c:\C#\Tutorial\Static\obj\Debug\net7.0\Static.genruntimeconfig.cache
+c:\C#\Tutorial\Static\obj\Debug\net7.0\ref\Static.dll

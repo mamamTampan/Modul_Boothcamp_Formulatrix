@@ -1,0 +1,15 @@
+c:\C#\Bootcamp\vscode\Day 12\IDisposableExample\bin\Debug\net7.0\IDisposableExample.exe
+c:\C#\Bootcamp\vscode\Day 12\IDisposableExample\bin\Debug\net7.0\IDisposableExample.deps.json
+c:\C#\Bootcamp\vscode\Day 12\IDisposableExample\bin\Debug\net7.0\IDisposableExample.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day 12\IDisposableExample\bin\Debug\net7.0\IDisposableExample.dll
+c:\C#\Bootcamp\vscode\Day 12\IDisposableExample\bin\Debug\net7.0\IDisposableExample.pdb
+c:\C#\Bootcamp\vscode\Day 12\IDisposableExample\obj\Debug\net7.0\IDisposableExample.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day 12\IDisposableExample\obj\Debug\net7.0\IDisposableExample.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day 12\IDisposableExample\obj\Debug\net7.0\IDisposableExample.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day 12\IDisposableExample\obj\Debug\net7.0\IDisposableExample.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day 12\IDisposableExample\obj\Debug\net7.0\IDisposableExample.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day 12\IDisposableExample\obj\Debug\net7.0\IDisposableExample.dll
+c:\C#\Bootcamp\vscode\Day 12\IDisposableExample\obj\Debug\net7.0\refint\IDisposableExample.dll
+c:\C#\Bootcamp\vscode\Day 12\IDisposableExample\obj\Debug\net7.0\IDisposableExample.pdb
+c:\C#\Bootcamp\vscode\Day 12\IDisposableExample\obj\Debug\net7.0\IDisposableExample.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day 12\IDisposableExample\obj\Debug\net7.0\ref\IDisposableExample.dll

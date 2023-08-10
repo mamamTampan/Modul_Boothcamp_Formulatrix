@@ -1,0 +1,15 @@
+c:\C#\Bootcamp\vscode\Day 12\DestructorImplicit\bin\Debug\net7.0\DestructorImplicit.exe
+c:\C#\Bootcamp\vscode\Day 12\DestructorImplicit\bin\Debug\net7.0\DestructorImplicit.deps.json
+c:\C#\Bootcamp\vscode\Day 12\DestructorImplicit\bin\Debug\net7.0\DestructorImplicit.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day 12\DestructorImplicit\bin\Debug\net7.0\DestructorImplicit.dll
+c:\C#\Bootcamp\vscode\Day 12\DestructorImplicit\bin\Debug\net7.0\DestructorImplicit.pdb
+c:\C#\Bootcamp\vscode\Day 12\DestructorImplicit\obj\Debug\net7.0\DestructorImplicit.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day 12\DestructorImplicit\obj\Debug\net7.0\DestructorImplicit.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day 12\DestructorImplicit\obj\Debug\net7.0\DestructorImplicit.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day 12\DestructorImplicit\obj\Debug\net7.0\DestructorImplicit.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day 12\DestructorImplicit\obj\Debug\net7.0\DestructorImplicit.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day 12\DestructorImplicit\obj\Debug\net7.0\DestructorImplicit.dll
+c:\C#\Bootcamp\vscode\Day 12\DestructorImplicit\obj\Debug\net7.0\refint\DestructorImplicit.dll
+c:\C#\Bootcamp\vscode\Day 12\DestructorImplicit\obj\Debug\net7.0\DestructorImplicit.pdb
+c:\C#\Bootcamp\vscode\Day 12\DestructorImplicit\obj\Debug\net7.0\DestructorImplicit.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day 12\DestructorImplicit\obj\Debug\net7.0\ref\DestructorImplicit.dll

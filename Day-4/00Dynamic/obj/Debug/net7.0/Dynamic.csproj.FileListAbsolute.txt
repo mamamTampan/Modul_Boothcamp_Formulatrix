@@ -1,0 +1,15 @@
+c:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 4\00Dynamic\bin\Debug\net7.0\Dynamic.exe
+c:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 4\00Dynamic\bin\Debug\net7.0\Dynamic.deps.json
+c:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 4\00Dynamic\bin\Debug\net7.0\Dynamic.runtimeconfig.json
+c:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 4\00Dynamic\bin\Debug\net7.0\Dynamic.dll
+c:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 4\00Dynamic\bin\Debug\net7.0\Dynamic.pdb
+c:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 4\00Dynamic\obj\Debug\net7.0\Dynamic.csproj.AssemblyReference.cache
+c:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 4\00Dynamic\obj\Debug\net7.0\Dynamic.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 4\00Dynamic\obj\Debug\net7.0\Dynamic.AssemblyInfoInputs.cache
+c:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 4\00Dynamic\obj\Debug\net7.0\Dynamic.AssemblyInfo.cs
+c:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 4\00Dynamic\obj\Debug\net7.0\Dynamic.csproj.CoreCompileInputs.cache
+c:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 4\00Dynamic\obj\Debug\net7.0\Dynamic.dll
+c:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 4\00Dynamic\obj\Debug\net7.0\refint\Dynamic.dll
+c:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 4\00Dynamic\obj\Debug\net7.0\Dynamic.pdb
+c:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 4\00Dynamic\obj\Debug\net7.0\Dynamic.genruntimeconfig.cache
+c:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 4\00Dynamic\obj\Debug\net7.0\ref\Dynamic.dll

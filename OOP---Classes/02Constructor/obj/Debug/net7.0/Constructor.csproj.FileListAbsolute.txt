@@ -1,0 +1,45 @@
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 2\Constructor\bin\Debug\net7.0\Constructor.exe
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 2\Constructor\bin\Debug\net7.0\Constructor.deps.json
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 2\Constructor\bin\Debug\net7.0\Constructor.runtimeconfig.json
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 2\Constructor\bin\Debug\net7.0\Constructor.dll
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 2\Constructor\bin\Debug\net7.0\Constructor.pdb
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 2\Constructor\obj\Debug\net7.0\Constructor.csproj.AssemblyReference.cache
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 2\Constructor\obj\Debug\net7.0\Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 2\Constructor\obj\Debug\net7.0\Constructor.AssemblyInfoInputs.cache
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 2\Constructor\obj\Debug\net7.0\Constructor.AssemblyInfo.cs
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 2\Constructor\obj\Debug\net7.0\Constructor.csproj.CoreCompileInputs.cache
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 2\Constructor\obj\Debug\net7.0\Constructor.dll
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 2\Constructor\obj\Debug\net7.0\refint\Constructor.dll
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 2\Constructor\obj\Debug\net7.0\Constructor.pdb
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 2\Constructor\obj\Debug\net7.0\Constructor.genruntimeconfig.cache
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 2\Constructor\obj\Debug\net7.0\ref\Constructor.dll
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 2\02Constructor\bin\Debug\net7.0\Constructor.exe
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 2\02Constructor\bin\Debug\net7.0\Constructor.deps.json
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 2\02Constructor\bin\Debug\net7.0\Constructor.runtimeconfig.json
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 2\02Constructor\bin\Debug\net7.0\Constructor.dll
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 2\02Constructor\bin\Debug\net7.0\Constructor.pdb
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 2\02Constructor\obj\Debug\net7.0\Constructor.csproj.AssemblyReference.cache
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 2\02Constructor\obj\Debug\net7.0\Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 2\02Constructor\obj\Debug\net7.0\Constructor.AssemblyInfoInputs.cache
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 2\02Constructor\obj\Debug\net7.0\Constructor.AssemblyInfo.cs
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 2\02Constructor\obj\Debug\net7.0\Constructor.csproj.CoreCompileInputs.cache
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 2\02Constructor\obj\Debug\net7.0\Constructor.dll
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 2\02Constructor\obj\Debug\net7.0\refint\Constructor.dll
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 2\02Constructor\obj\Debug\net7.0\Constructor.pdb
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 2\02Constructor\obj\Debug\net7.0\Constructor.genruntimeconfig.cache
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 2\02Constructor\obj\Debug\net7.0\ref\Constructor.dll
+c:\C#\Bootcamp\vscode\OOP & Classes\02Constructor\bin\Debug\net7.0\Constructor.exe
+c:\C#\Bootcamp\vscode\OOP & Classes\02Constructor\bin\Debug\net7.0\Constructor.deps.json
+c:\C#\Bootcamp\vscode\OOP & Classes\02Constructor\bin\Debug\net7.0\Constructor.runtimeconfig.json
+c:\C#\Bootcamp\vscode\OOP & Classes\02Constructor\bin\Debug\net7.0\Constructor.dll
+c:\C#\Bootcamp\vscode\OOP & Classes\02Constructor\bin\Debug\net7.0\Constructor.pdb
+c:\C#\Bootcamp\vscode\OOP & Classes\02Constructor\obj\Debug\net7.0\Constructor.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\OOP & Classes\02Constructor\obj\Debug\net7.0\Constructor.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\OOP & Classes\02Constructor\obj\Debug\net7.0\Constructor.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\OOP & Classes\02Constructor\obj\Debug\net7.0\Constructor.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\OOP & Classes\02Constructor\obj\Debug\net7.0\Constructor.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\OOP & Classes\02Constructor\obj\Debug\net7.0\Constructor.dll
+c:\C#\Bootcamp\vscode\OOP & Classes\02Constructor\obj\Debug\net7.0\refint\Constructor.dll
+c:\C#\Bootcamp\vscode\OOP & Classes\02Constructor\obj\Debug\net7.0\Constructor.pdb
+c:\C#\Bootcamp\vscode\OOP & Classes\02Constructor\obj\Debug\net7.0\Constructor.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\OOP & Classes\02Constructor\obj\Debug\net7.0\ref\Constructor.dll

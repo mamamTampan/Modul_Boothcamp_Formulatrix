@@ -1,0 +1,15 @@
+c:\C#\Bootcamp\vscode\Day 5 (new)\MyClass\bin\Debug\net7.0\MyClass.exe
+c:\C#\Bootcamp\vscode\Day 5 (new)\MyClass\bin\Debug\net7.0\MyClass.deps.json
+c:\C#\Bootcamp\vscode\Day 5 (new)\MyClass\bin\Debug\net7.0\MyClass.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day 5 (new)\MyClass\bin\Debug\net7.0\MyClass.dll
+c:\C#\Bootcamp\vscode\Day 5 (new)\MyClass\bin\Debug\net7.0\MyClass.pdb
+c:\C#\Bootcamp\vscode\Day 5 (new)\MyClass\obj\Debug\net7.0\MyClass.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day 5 (new)\MyClass\obj\Debug\net7.0\MyClass.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day 5 (new)\MyClass\obj\Debug\net7.0\MyClass.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day 5 (new)\MyClass\obj\Debug\net7.0\MyClass.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day 5 (new)\MyClass\obj\Debug\net7.0\MyClass.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day 5 (new)\MyClass\obj\Debug\net7.0\MyClass.dll
+c:\C#\Bootcamp\vscode\Day 5 (new)\MyClass\obj\Debug\net7.0\refint\MyClass.dll
+c:\C#\Bootcamp\vscode\Day 5 (new)\MyClass\obj\Debug\net7.0\MyClass.pdb
+c:\C#\Bootcamp\vscode\Day 5 (new)\MyClass\obj\Debug\net7.0\MyClass.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day 5 (new)\MyClass\obj\Debug\net7.0\ref\MyClass.dll

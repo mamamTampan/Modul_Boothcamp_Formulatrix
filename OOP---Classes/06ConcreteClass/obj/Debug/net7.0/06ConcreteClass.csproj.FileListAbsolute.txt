@@ -1,0 +1,15 @@
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 2\06ConcreteClass\bin\Debug\net7.0\06ConcreteClass.exe
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 2\06ConcreteClass\bin\Debug\net7.0\06ConcreteClass.deps.json
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 2\06ConcreteClass\bin\Debug\net7.0\06ConcreteClass.runtimeconfig.json
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 2\06ConcreteClass\bin\Debug\net7.0\06ConcreteClass.dll
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 2\06ConcreteClass\bin\Debug\net7.0\06ConcreteClass.pdb
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 2\06ConcreteClass\obj\Debug\net7.0\06ConcreteClass.csproj.AssemblyReference.cache
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 2\06ConcreteClass\obj\Debug\net7.0\06ConcreteClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 2\06ConcreteClass\obj\Debug\net7.0\06ConcreteClass.AssemblyInfoInputs.cache
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 2\06ConcreteClass\obj\Debug\net7.0\06ConcreteClass.AssemblyInfo.cs
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 2\06ConcreteClass\obj\Debug\net7.0\06ConcreteClass.csproj.CoreCompileInputs.cache
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 2\06ConcreteClass\obj\Debug\net7.0\06ConcreteClass.dll
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 2\06ConcreteClass\obj\Debug\net7.0\refint\06ConcreteClass.dll
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 2\06ConcreteClass\obj\Debug\net7.0\06ConcreteClass.pdb
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 2\06ConcreteClass\obj\Debug\net7.0\06ConcreteClass.genruntimeconfig.cache
+C:\Users\Formulatrix\Desktop\Bootcamp\vscode\Day 2\06ConcreteClass\obj\Debug\net7.0\ref\06ConcreteClass.dll

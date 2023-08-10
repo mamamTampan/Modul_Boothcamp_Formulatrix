@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <RootNamespace>Class</RootNamespace>
+    </PropertyGroup>
+    <ItemGroup>
+        <Content Include="Program.cs"/>
+        <Content Include="obj\project.assets.json"/>
+        <Content Include="obj\project.nuget.cache"/>
+        <Content Include="obj\Class.csproj.nuget.g.targets"/>
+        <Content Include="obj\Class.csproj.nuget.g.props"/>
+        <Content Include="obj\Class.csproj.nuget.dgspec.json"/>
+        <Content Include="obj\Debug\net7.0\Class.csproj.FileListAbsolute.txt"/>
+        <Content Include="obj\Debug\net7.0\Class.csproj.CoreCompileInputs.cache"/>
+        <Content Include="obj\Debug\net7.0\Class.dll"/>
+        <Content Include="bin\Debug\net7.0\Class.runtimeconfig.json"/>
+        <Content Include="obj\Debug\net7.0\Class.csproj.AssemblyReference.cache"/>
+        <Content Include="bin\Debug\net7.0\Class.pdb"/>
+        <Content Include="bin\Debug\net7.0\Class.exe"/>
+        <Content Include="obj\Debug\net7.0\Class.assets.cache"/>
+        <Content Include="bin\Debug\net7.0\Class.dll"/>
+        <Content Include="obj\Debug\net7.0\Class.AssemblyInfoInputs.cache"/>
+        <Content Include="bin\Debug\net7.0\Class.deps.json"/>
+        <Content Include="obj\Debug\net7.0\Class.GeneratedMSBuildEditorConfig.editorconfig"/>
+        <Content Include="obj\Debug\net7.0\Class.AssemblyInfo.cs"/>
+        <Content Include="obj\Debug\net7.0\apphost.exe"/>
+        <Content Include="obj\Debug\net7.0\.NETCoreApp,Version=v7.0.AssemblyAttributes.cs"/>
+        <Content Include="obj\Debug\net7.0\refint\Class.dll"/>
+        <Content Include="obj\Debug\net7.0\ref\Class.dll"/>
+        <Content Include="obj\Debug\net7.0\Class.pdb"/>
+        <Content Include="obj\Debug\net7.0\Class.GlobalUsings.g.cs"/>
+        <Content Include="obj\Debug\net7.0\Class.genruntimeconfig.cache"/>
+    </ItemGroup>
+</Project>

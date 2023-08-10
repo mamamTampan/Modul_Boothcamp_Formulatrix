@@ -1,0 +1,5 @@
+c:\Users\Batch 3\Desktop\Day-24\I_After KISS\obj\Debug\net7.0\I_After KISS.csproj.AssemblyReference.cache
+c:\Users\Batch 3\Desktop\Day-24\I_After KISS\obj\Debug\net7.0\I_After KISS.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Batch 3\Desktop\Day-24\I_After KISS\obj\Debug\net7.0\I_After KISS.AssemblyInfoInputs.cache
+c:\Users\Batch 3\Desktop\Day-24\I_After KISS\obj\Debug\net7.0\I_After KISS.AssemblyInfo.cs
+c:\Users\Batch 3\Desktop\Day-24\I_After KISS\obj\Debug\net7.0\I_After KISS.csproj.CoreCompileInputs.cache

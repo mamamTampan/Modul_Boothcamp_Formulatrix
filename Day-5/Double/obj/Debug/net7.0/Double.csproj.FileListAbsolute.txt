@@ -1,0 +1,15 @@
+c:\C#\Bootcamp\vscode\Day 5 (new)\Double\obj\Debug\net7.0\Double.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day 5 (new)\Double\obj\Debug\net7.0\Double.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day 5 (new)\Double\obj\Debug\net7.0\Double.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day 5 (new)\Double\obj\Debug\net7.0\Double.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day 5 (new)\Double\obj\Debug\net7.0\Double.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day 5 (new)\Double\bin\Debug\net7.0\Double.exe
+c:\C#\Bootcamp\vscode\Day 5 (new)\Double\bin\Debug\net7.0\Double.deps.json
+c:\C#\Bootcamp\vscode\Day 5 (new)\Double\bin\Debug\net7.0\Double.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day 5 (new)\Double\bin\Debug\net7.0\Double.dll
+c:\C#\Bootcamp\vscode\Day 5 (new)\Double\bin\Debug\net7.0\Double.pdb
+c:\C#\Bootcamp\vscode\Day 5 (new)\Double\obj\Debug\net7.0\Double.dll
+c:\C#\Bootcamp\vscode\Day 5 (new)\Double\obj\Debug\net7.0\refint\Double.dll
+c:\C#\Bootcamp\vscode\Day 5 (new)\Double\obj\Debug\net7.0\Double.pdb
+c:\C#\Bootcamp\vscode\Day 5 (new)\Double\obj\Debug\net7.0\Double.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day 5 (new)\Double\obj\Debug\net7.0\ref\Double.dll

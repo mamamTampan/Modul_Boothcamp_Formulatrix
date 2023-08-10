@@ -1,0 +1,15 @@
+C:\C#\Tutorial\Trial\bin\Debug\net7.0\Trial.exe
+C:\C#\Tutorial\Trial\bin\Debug\net7.0\Trial.deps.json
+C:\C#\Tutorial\Trial\bin\Debug\net7.0\Trial.runtimeconfig.json
+C:\C#\Tutorial\Trial\bin\Debug\net7.0\Trial.dll
+C:\C#\Tutorial\Trial\bin\Debug\net7.0\Trial.pdb
+C:\C#\Tutorial\Trial\obj\Debug\net7.0\Trial.csproj.AssemblyReference.cache
+C:\C#\Tutorial\Trial\obj\Debug\net7.0\Trial.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Tutorial\Trial\obj\Debug\net7.0\Trial.AssemblyInfoInputs.cache
+C:\C#\Tutorial\Trial\obj\Debug\net7.0\Trial.AssemblyInfo.cs
+C:\C#\Tutorial\Trial\obj\Debug\net7.0\Trial.csproj.CoreCompileInputs.cache
+C:\C#\Tutorial\Trial\obj\Debug\net7.0\Trial.dll
+C:\C#\Tutorial\Trial\obj\Debug\net7.0\refint\Trial.dll
+C:\C#\Tutorial\Trial\obj\Debug\net7.0\Trial.pdb
+C:\C#\Tutorial\Trial\obj\Debug\net7.0\Trial.genruntimeconfig.cache
+C:\C#\Tutorial\Trial\obj\Debug\net7.0\ref\Trial.dll

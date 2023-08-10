@@ -1,0 +1,15 @@
+c:\C#\Bootcamp\vscode\Day 5\eventtut\bin\Debug\net7.0\eventtut.exe
+c:\C#\Bootcamp\vscode\Day 5\eventtut\bin\Debug\net7.0\eventtut.deps.json
+c:\C#\Bootcamp\vscode\Day 5\eventtut\bin\Debug\net7.0\eventtut.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day 5\eventtut\bin\Debug\net7.0\eventtut.dll
+c:\C#\Bootcamp\vscode\Day 5\eventtut\bin\Debug\net7.0\eventtut.pdb
+c:\C#\Bootcamp\vscode\Day 5\eventtut\obj\Debug\net7.0\eventtut.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day 5\eventtut\obj\Debug\net7.0\eventtut.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day 5\eventtut\obj\Debug\net7.0\eventtut.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day 5\eventtut\obj\Debug\net7.0\eventtut.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day 5\eventtut\obj\Debug\net7.0\eventtut.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day 5\eventtut\obj\Debug\net7.0\eventtut.dll
+c:\C#\Bootcamp\vscode\Day 5\eventtut\obj\Debug\net7.0\refint\eventtut.dll
+c:\C#\Bootcamp\vscode\Day 5\eventtut\obj\Debug\net7.0\eventtut.pdb
+c:\C#\Bootcamp\vscode\Day 5\eventtut\obj\Debug\net7.0\eventtut.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day 5\eventtut\obj\Debug\net7.0\ref\eventtut.dll

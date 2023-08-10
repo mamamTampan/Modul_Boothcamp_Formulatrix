@@ -2,7 +2,7 @@
 {
     internal class Program 
 	{
-		static void Main(string[] args) 
+		static void Main() 
 		{
 			NumberCalculation numberCalc = new();
 			int a = 10;

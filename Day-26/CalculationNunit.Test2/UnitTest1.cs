@@ -80,7 +80,7 @@ namespace Calculation.Tests
 			Assert.Throws<DivideByZeroException>(() => numberCalc.Divide(a, b));
 		}
 
-		[TestCase(3, 5, 90)]
+		[TestCase(3, 5, 8)]
 		[TestCase(0, 0, 0)]
 		[TestCase(-10, 10, 0)]
 		public void Add_ShouldReturnCorrectResult_TestCase(int a, int b, int expected)

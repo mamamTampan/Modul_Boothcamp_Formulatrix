@@ -64,7 +64,7 @@ namespace Calculation.Tests
 		public void TestDivisionByZero()
 		{
 			int a = 10;
-			int b = 1;
+			int b = 0;
 
 			Assert.Throws<System.DivideByZeroException>(() => numberCalculation.Divide(a, b));
 		}

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\C#\\Bootcamp\\vscode\\Day26\\Calculation.Test\\Calculation.Test.csproj": {}
+    "c:\\Users\\Batch 3\\Desktop\\Modul_Boothcamp_Formulatrix\\Day-26\\Calculation.Test\\Calculation.Test.csproj": {}
   },
   "projects": {
-    "c:\\C#\\Bootcamp\\vscode\\Day26\\Calculation.Test\\Calculation.Test.csproj": {
+    "c:\\Users\\Batch 3\\Desktop\\Modul_Boothcamp_Formulatrix\\Day-26\\Calculation.Test\\Calculation.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day26\\Calculation.Test\\Calculation.Test.csproj",
+        "projectUniqueName": "c:\\Users\\Batch 3\\Desktop\\Modul_Boothcamp_Formulatrix\\Day-26\\Calculation.Test\\Calculation.Test.csproj",
         "projectName": "Calculation.Test",
-        "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day26\\Calculation.Test\\Calculation.Test.csproj",
-        "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day26\\Calculation.Test\\obj\\",
+        "projectPath": "c:\\Users\\Batch 3\\Desktop\\Modul_Boothcamp_Formulatrix\\Day-26\\Calculation.Test\\Calculation.Test.csproj",
+        "packagesPath": "C:\\Users\\Batch 3\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Batch 3\\Desktop\\Modul_Boothcamp_Formulatrix\\Day-26\\Calculation.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Batch 3\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -26,8 +26,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\C#\\Bootcamp\\vscode\\Day26\\Calculation\\Calculation.csproj": {
-                "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day26\\Calculation\\Calculation.csproj"
+              "c:\\Users\\Batch 3\\Desktop\\Modul_Boothcamp_Formulatrix\\Day-26\\Calculation\\Calculation.csproj": {
+                "projectPath": "c:\\Users\\Batch 3\\Desktop\\Modul_Boothcamp_Formulatrix\\Day-26\\Calculation\\Calculation.csproj"
               }
             }
           }
@@ -77,21 +77,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "c:\\C#\\Bootcamp\\vscode\\Day26\\Calculation\\Calculation.csproj": {
+    "c:\\Users\\Batch 3\\Desktop\\Modul_Boothcamp_Formulatrix\\Day-26\\Calculation\\Calculation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day26\\Calculation\\Calculation.csproj",
+        "projectUniqueName": "c:\\Users\\Batch 3\\Desktop\\Modul_Boothcamp_Formulatrix\\Day-26\\Calculation\\Calculation.csproj",
         "projectName": "Calculation",
-        "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day26\\Calculation\\Calculation.csproj",
-        "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day26\\Calculation\\obj\\",
+        "projectPath": "c:\\Users\\Batch 3\\Desktop\\Modul_Boothcamp_Formulatrix\\Day-26\\Calculation\\Calculation.csproj",
+        "packagesPath": "C:\\Users\\Batch 3\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Batch 3\\Desktop\\Modul_Boothcamp_Formulatrix\\Day-26\\Calculation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Batch 3\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -130,7 +130,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

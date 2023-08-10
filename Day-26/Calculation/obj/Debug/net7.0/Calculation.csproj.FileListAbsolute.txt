@@ -13,3 +13,18 @@ c:\C#\Bootcamp\vscode\Day26\Calculation\obj\Debug\net7.0\refint\Calculation.dll
 c:\C#\Bootcamp\vscode\Day26\Calculation\obj\Debug\net7.0\Calculation.pdb
 c:\C#\Bootcamp\vscode\Day26\Calculation\obj\Debug\net7.0\Calculation.genruntimeconfig.cache
 c:\C#\Bootcamp\vscode\Day26\Calculation\obj\Debug\net7.0\ref\Calculation.dll
+c:\Users\Batch 3\Desktop\Modul_Boothcamp_Formulatrix\Day-26\Calculation\bin\Debug\net7.0\Calculation.exe
+c:\Users\Batch 3\Desktop\Modul_Boothcamp_Formulatrix\Day-26\Calculation\bin\Debug\net7.0\Calculation.deps.json
+c:\Users\Batch 3\Desktop\Modul_Boothcamp_Formulatrix\Day-26\Calculation\bin\Debug\net7.0\Calculation.runtimeconfig.json
+c:\Users\Batch 3\Desktop\Modul_Boothcamp_Formulatrix\Day-26\Calculation\bin\Debug\net7.0\Calculation.dll
+c:\Users\Batch 3\Desktop\Modul_Boothcamp_Formulatrix\Day-26\Calculation\bin\Debug\net7.0\Calculation.pdb
+c:\Users\Batch 3\Desktop\Modul_Boothcamp_Formulatrix\Day-26\Calculation\obj\Debug\net7.0\Calculation.csproj.AssemblyReference.cache
+c:\Users\Batch 3\Desktop\Modul_Boothcamp_Formulatrix\Day-26\Calculation\obj\Debug\net7.0\Calculation.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Batch 3\Desktop\Modul_Boothcamp_Formulatrix\Day-26\Calculation\obj\Debug\net7.0\Calculation.AssemblyInfoInputs.cache
+c:\Users\Batch 3\Desktop\Modul_Boothcamp_Formulatrix\Day-26\Calculation\obj\Debug\net7.0\Calculation.AssemblyInfo.cs
+c:\Users\Batch 3\Desktop\Modul_Boothcamp_Formulatrix\Day-26\Calculation\obj\Debug\net7.0\Calculation.csproj.CoreCompileInputs.cache
+c:\Users\Batch 3\Desktop\Modul_Boothcamp_Formulatrix\Day-26\Calculation\obj\Debug\net7.0\Calculation.dll
+c:\Users\Batch 3\Desktop\Modul_Boothcamp_Formulatrix\Day-26\Calculation\obj\Debug\net7.0\refint\Calculation.dll
+c:\Users\Batch 3\Desktop\Modul_Boothcamp_Formulatrix\Day-26\Calculation\obj\Debug\net7.0\Calculation.pdb
+c:\Users\Batch 3\Desktop\Modul_Boothcamp_Formulatrix\Day-26\Calculation\obj\Debug\net7.0\Calculation.genruntimeconfig.cache
+c:\Users\Batch 3\Desktop\Modul_Boothcamp_Formulatrix\Day-26\Calculation\obj\Debug\net7.0\ref\Calculation.dll

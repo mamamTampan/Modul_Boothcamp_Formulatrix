@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\kinar\\.nuget\\packages\\": {}
+    "C:\\Users\\Batch 3\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day26\\CalculationNUnit\\CalculationNUnit.csproj",
+      "projectUniqueName": "c:\\Users\\Batch 3\\Desktop\\Modul_Boothcamp_Formulatrix\\Day-26\\CalculationNUnit\\CalculationNUnit.csproj",
       "projectName": "CalculationNUnit",
-      "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day26\\CalculationNUnit\\CalculationNUnit.csproj",
-      "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-      "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day26\\CalculationNUnit\\obj\\",
+      "projectPath": "c:\\Users\\Batch 3\\Desktop\\Modul_Boothcamp_Formulatrix\\Day-26\\CalculationNUnit\\CalculationNUnit.csproj",
+      "packagesPath": "C:\\Users\\Batch 3\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\Batch 3\\Desktop\\Modul_Boothcamp_Formulatrix\\Day-26\\CalculationNUnit\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Batch 3\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

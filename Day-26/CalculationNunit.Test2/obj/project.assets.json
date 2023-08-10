@@ -3974,19 +3974,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\kinar\\.nuget\\packages\\": {}
+    "C:\\Users\\Batch 3\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day26\\CalculationNunit.Test2\\CalculationNunit.Test2.csproj",
+      "projectUniqueName": "c:\\Users\\Batch 3\\Desktop\\Modul_Boothcamp_Formulatrix\\Day-26\\CalculationNunit.Test2\\CalculationNunit.Test2.csproj",
       "projectName": "CalculationNunit.Test2",
-      "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day26\\CalculationNunit.Test2\\CalculationNunit.Test2.csproj",
-      "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-      "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day26\\CalculationNunit.Test2\\obj\\",
+      "projectPath": "c:\\Users\\Batch 3\\Desktop\\Modul_Boothcamp_Formulatrix\\Day-26\\CalculationNunit.Test2\\CalculationNunit.Test2.csproj",
+      "packagesPath": "C:\\Users\\Batch 3\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\Batch 3\\Desktop\\Modul_Boothcamp_Formulatrix\\Day-26\\CalculationNunit.Test2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Batch 3\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -3998,8 +3998,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "c:\\C#\\Bootcamp\\vscode\\Day26\\CalculationNUnit\\CalculationNUnit.csproj": {
-              "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day26\\CalculationNUnit\\CalculationNUnit.csproj"
+            "c:\\Users\\Batch 3\\Desktop\\Modul_Boothcamp_Formulatrix\\Day-26\\CalculationNUnit\\CalculationNUnit.csproj": {
+              "projectPath": "c:\\Users\\Batch 3\\Desktop\\Modul_Boothcamp_Formulatrix\\Day-26\\CalculationNUnit\\CalculationNUnit.csproj"
             }
           }
         }
@@ -4051,7 +4051,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

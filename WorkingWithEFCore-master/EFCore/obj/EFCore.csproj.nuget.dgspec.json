@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\C#\\WorkingWithEFCore\\EFCore\\EFCore.csproj": {}
+    "c:\\Users\\Batch 3\\Desktop\\Modul_Boothcamp_Formulatrix\\WorkingWithEFCore-master\\EFCore\\EFCore.csproj": {}
   },
   "projects": {
-    "c:\\C#\\WorkingWithEFCore\\EFCore\\EFCore.csproj": {
+    "c:\\Users\\Batch 3\\Desktop\\Modul_Boothcamp_Formulatrix\\WorkingWithEFCore-master\\EFCore\\EFCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\C#\\WorkingWithEFCore\\EFCore\\EFCore.csproj",
+        "projectUniqueName": "c:\\Users\\Batch 3\\Desktop\\Modul_Boothcamp_Formulatrix\\WorkingWithEFCore-master\\EFCore\\EFCore.csproj",
         "projectName": "EFCore",
-        "projectPath": "c:\\C#\\WorkingWithEFCore\\EFCore\\EFCore.csproj",
-        "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "c:\\C#\\WorkingWithEFCore\\EFCore\\obj\\",
+        "projectPath": "c:\\Users\\Batch 3\\Desktop\\Modul_Boothcamp_Formulatrix\\WorkingWithEFCore-master\\EFCore\\EFCore.csproj",
+        "packagesPath": "C:\\Users\\Batch 3\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Batch 3\\Desktop\\Modul_Boothcamp_Formulatrix\\WorkingWithEFCore-master\\EFCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Batch 3\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -69,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
